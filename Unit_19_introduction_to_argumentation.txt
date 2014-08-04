@@ -1,0 +1,51 @@
+Part I: lesson preview
+1. understanding argumentation
+2. argumentation in academic writing
+3. argumentative writing
+
+Part II: understanding argumentation
+
+Part III: key terms of argument
+2. argumentation in academic writing
+    the arguments we deal with in academic writing are often ordinary discourse about matters of public controversy.
+    1) key terms of argument
+        issue: an important subject that people are arguing about;
+        topic: a particular subject matter the writer considers; a topic is a more specific part of the issue;
+        claim: a statement that presses the writer's view about the topic; central argument of the essay;
+        sub-claims: reasons, main ideas, micro arguments that support the claim or central argument
+        example:
+            issue: the environment
+            topic: damages of environment
+            claim: the environment has become the most serious problem the world faces today
+            sub-claim: the rain forests are being destroyed; many important water sources are being polluted by industry; the ozone layer, which protects us from harmful sunrays, is being destroyed by chemicals
+    2) steps to construct an argument
+    3) general strategies of argumentation
+    4) alternative terms
+
+Part IV: steps and strategies of argumentation
+    2) steps to construct an argument
+    to construct an argument, we will 
+        A. make a case;
+        B. argue the point;
+        C. persuade the audience:
+            a. look for *common* ground;
+            b. consider *different* viewpoints and their reasons;
+            c. take a position and present *evidence*;
+            d. convince the audience that one viewpoint is *more* acceptable than the others.
+    3) general strategies of argumentation
+        a) use appropriate language to clarify the problem and articulate a coherent perspective on it;
+        b) point out common ground to settle matters;
+        c) acknowledge different viewpoints, sometimes to grant their merits and at other times to rebut the opposing arguments;
+        d) appeal to your readers and motivate them to act
+    4) alternative terms
+        claim: thesis; proposition; conclusion; main point; macro-argument; controlling idea
+        statement of claim: thesis statement; purpose sentence; statement of focus; statement of proposition;
+        sub-claims: reasons; main ideas; micro-arguments; arguments; lines of argument; supporting arguments; specific issues
+        support: evidence; opinions; reasons; examples; facts; data; grounds; proof; premises; statistics; explanations; information; personal narratives
+        warrants: assumptions; general principles; widely held values; commonly accepted beliefs; appeals to human motives; cultural values; presuppositions; unstated premises; generally accepted truths;
+
+3. argumentative writing
+    1) the western rhetoric
+    2) models of argumentation
+    3) elements of argument
+    4) controversial issues
