@@ -42,10 +42,47 @@ Part IV: steps and strategies of argumentation
         statement of claim: thesis statement; purpose sentence; statement of focus; statement of proposition;
         sub-claims: reasons; main ideas; micro-arguments; arguments; lines of argument; supporting arguments; specific issues
         support: evidence; opinions; reasons; examples; facts; data; grounds; proof; premises; statistics; explanations; information; personal narratives
-        warrants: assumptions; general principles; widely held values; commonly accepted beliefs; appeals to human motives; cultural values; presuppositions; unstated premises; generally accepted truths;
+        warraonts: assumptions; general principles; widely held values; commonly accepted beliefs; appeals to human motives; cultural values; presuppositions; unstated premises; generally accepted truths;
 
 3. argumentative writing
     1) the western rhetoric
     2) models of argumentation
+        first. aristotle's rhetoric: Ethos(speaker,writer/credibility) -- Pathos(audience/emotion) -- Logos(message/logica) 
+            ethos: good sense or practical wisdom; good moral character; good will toward the audience; good knowledge about the subject
+            pathos: the author's appeal to the audience's emotions
+            logos: the truth and logical validity of what is being argued
+        second. the toulmin model of argument
+            SUPPORT(S) --> therefore(Q) Qualifier + CLAIM(C) 
+                                 |                      |
+                              Since(W)               Unless(R)
+                              WARRANT                Rebuttal
+                                 |
+                              Because(B)
+                               Backing
+SUPPORT: the support(or grounds or data) is the basis of real persuasion and is made up of data and hard facts, plus the reasoning behind the claim. It is the 'truth' on which the claim is based. Grounds may also include proof of expertise and the basic premises on which the rest of the argument is built. 'did it happen?'; 'is it good or bad?'; 'what should we do about it?'; 'how should we define it?'; 'what caused it? or what are its effects?' 
+CLAIM: a statement that you are asking the other person to accept. this includes information you are asking them to accept as true or actions you want them to accept and enact. 'are you familiar with the topic?'; 'what proofs do you use?'; 'do you provide sufficient evidence?'; 'do you have a good logic?'; 'do you avoid fallacies?'
+WARRANT: a warrant links data and other grounds to a claim, legitimizing the claim by showing the grounds to be relevant.
+         the warrant may be explicit or unspoken and implicit. it answers the question 'why does that data mean your claim is true?'
+         'why do you think so?'; 'what are your grounds?'; 'what are the precondition?'
     3) elements of argument
-    4) controversial issues
+    4) controversial issues 
+        distinguishing facts and opinions
+        discovering an arguable topic
+        exploring different view points
+
+Part VI: argumentative claims and evidence
+    a claim must be substantive and contestable
+        substantive: important enough to warrant our consideration;
+        contestable: an opinion on a controversial issue, so we can (con)test it or argue for or against it.
+    to support it, evidence must reliable and relevant.
+        reliable: sufficient and trustworthy evidence;
+        relevant: related to the claim
+
+Part VII: exploring different viewpoints
+    
+Part VIII: sample essay analysis
+
+lesson review
+1. understanding argumentation
+2. argumentation in academic writing
+3. argumentative writing
