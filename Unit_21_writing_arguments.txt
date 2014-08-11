@@ -5,4 +5,27 @@ Part I: Lesseon preview
 
 Part II: Basics of Argumentation 
 1. reviewing basics of argumentation
-    Aristotle's rhetoric: logos(logical proof); 
+    Aristotle's rhetoric: logos(logical proof); pathos(appeals to audience); ethos(ethical proof)
+    Toulmin model of argument: support(evidence & appeals to audience); claim; warrant(unstated reasons or assumptions that validify links between the claim and the support)
+
+    applying the basics
+    in writing a strong argumentative essay, we should apply the basics through the following tasks:
+        a) choose a controversial issue and explore multiple viewpoints
+        b) state a claim; an assertion or position; a statement of what you believe to be true; a demand that the reader should do
+        c) support the claim;
+        d) acknowledge opposing claims   a persuasive argument will answer opposing claims [one-sided]
+
+Part III: Applying the basics
+Forms of support
+Forms   Purpose     conveyed through
+
+ethical proof/credibility proof     persuades the reader that you, the writer, are well informed and reliable   personal narrative, your confidence and knowlege of the subject
+
+evidence and testimony      persuade the reader, with facts, data, opinion, and expert/authority testimony      factual and statistical information, citations of experts and authorities
+
+emothinal appeal(to reader's needs & values)[logical proof(reasons & logical reasoning)]    makes an appeal to the reader's sense of what is right and reasonable[persuades the reader that your claim is reasonable and better than any others concerning this particular issue]       induction, deduction, illustration and example, narrative, process analysis, cause-and-effect analysis, comparison-and-contrast analysis, and definition
+
+Part IV: building up logical and effective arguments
+2. building up an argument
+    1) inductive vs. deductive reasoning
+    2) using various writing strategies: description; narration; process; comparison and contrast; cause and effect; illustration and example; definition; classification and division
