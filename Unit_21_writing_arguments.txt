@@ -29,3 +29,42 @@ Part IV: building up logical and effective arguments
 2. building up an argument
     1) inductive vs. deductive reasoning
     2) using various writing strategies: description; narration; process; comparison and contrast; cause and effect; illustration and example; definition; classification and division
+
+Part V: writing an argumentative essay
+3. writing an argumentative essay
+1) prewriting -> [2) planning; 3) drafting; 4) revision & editing] -> 5) making a final copy
+
+step 1 -- prewriting
+    choosing a controversial issue
+    exploring multiple viewpoints   using a clustering diagram to discover subtopics and supporting details[arguments for & arguments against]
+
+step 2 -- planning 
+    collecting evidence     research to look for facts and expert testimonies, and then select quotations that could be used in the essay
+        cite your sources and avoid plagiarism;
+        use quotation marks when copying quotations;
+        write facts in a paraphrased form 
+    citing your sources(e.g. APA style)
+        quotation: education development center emphasizes that "service-learning stands at the intersection of civic and academic engagement"(2002)
+        fact/opinion: half of today's high school students are bored in school and see no reason to get good grades(Education development center,2002)
+        fact/opinion: educators strongly believe that service-learning motivates students to try harder in school(education development center,2002)
+        References  education development center, inc. (2002).  service-learning satisfies young people's desire for public service. education development center, Inc.
+    using various forms of proof    ethical proof/credibility proof; evidence and testimony; emothional appeal; logical proof
+
+step 3 -- Drafting
+    focusing -- the introduction and conclusion
+        introduction: the introduction should quickly state the problem and pull the reader into the essay
+        use one thinking and writing strategy to get the essay started, 
+        e.g.
+            illustration-and-example introduction
+            comparison-and-contrast introduction
+            summary introduction
+        conclusion: in an argumentative essay, a conclusion usually emphasizes the reasons for
+            logical viewpoint
+            the writer's opinion
+    formulating a thesis statement       not to be too broad and too specific
+    organizing ideas and details effectively{Unit 21 video 5 11:20}
+        
+Part VI: revising and checking for fallacies
+    Step 4 -- Revising
+    checking for faulty reasoning
+        a logical argument is based on sound reasoning. a logical fallacy is an error in reasoning(fallacies that ignore issues; fallacies that oversimplify issues)
