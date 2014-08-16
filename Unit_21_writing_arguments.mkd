@@ -5,14 +5,14 @@
 
 #Part II: Basics of Argumentation 
 1. reviewing basics of argumentation
-    Aristotle's rhetoric 
-        logos(logical proof)
-        pathos(appeals to audience)
-        ethos(ethical proof)
-    Toulmin model of argument
-        support(evidence & appeals to audience)
-        claim
-        warrant(unstated reasons or assumptions that validify links between the claim and the support)
+    *Aristotle's rhetoric 
+        - logos(logical proof)
+        - pathos(appeals to audience)
+        - ethos(ethical proof)
+    *Toulmin model of argument
+        - support(evidence & appeals to audience)
+        - claim
+        - warrant(unstated reasons or assumptions that validify links between the claim and the support)
     applying the basics
 
     in writing a strong argumentative essay, we should apply the basics through the following tasks
@@ -22,7 +22,7 @@
         1.support the claim;
         1.acknowledge opposing claims   a persuasive argument will answer opposing claims [one-sided]
 
-Part III: Applying the basics
+#Part III: Applying the basics
 Forms of support
 Forms   Purpose     conveyed through
 
@@ -32,12 +32,12 @@ evidence and testimony      persuade the reader, with facts, data, opinion, and 
 
 emothinal appeal(to reader's needs & values)[logical proof(reasons & logical reasoning)]    makes an appeal to the reader's sense of what is right and reasonable[persuades the reader that your claim is reasonable and better than any others concerning this particular issue]       induction, deduction, illustration and example, narrative, process analysis, cause-and-effect analysis, comparison-and-contrast analysis, and definition
 
-Part IV: building up logical and effective arguments
+#Part IV: building up logical and effective arguments
 2. building up an argument
     1) inductive vs. deductive reasoning
     2) using various writing strategies: description; narration; process; comparison and contrast; cause and effect; illustration and example; definition; classification and division
 
-Part V: writing an argumentative essay
+#Part V: writing an argumentative essay
 3. writing an argumentative essay
 1) prewriting -> [2) planning; 3) drafting; 4) revision & editing] -> 5) making a final copy
 
@@ -71,7 +71,7 @@ step 3 -- Drafting
     formulating a thesis statement       not to be too broad and too specific
     organizing ideas and details effectively{Unit 21 video 5 11:20}
         
-Part VI: revising and checking for fallacies
+#Part VI: revising and checking for fallacies
     Step 4 -- Revising
     checking for faulty reasoning
         a logical argument is based on sound reasoning. a logical fallacy is an error in reasoning(fallacies that ignore issues; fallacies that oversimplify issues)
