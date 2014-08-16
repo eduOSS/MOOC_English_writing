@@ -1,19 +1,26 @@
-Part I: Lesseon preview 
+#Part I: Lesseon preview 
 1. reviewing basics of argumentation
-2. building up an argument
-3. writing an argumentative essay
+1. building up an argument
+1. writing an argumentative essay
 
-Part II: Basics of Argumentation 
+#Part II: Basics of Argumentation 
 1. reviewing basics of argumentation
-    Aristotle's rhetoric: logos(logical proof); pathos(appeals to audience); ethos(ethical proof)
-    Toulmin model of argument: support(evidence & appeals to audience); claim; warrant(unstated reasons or assumptions that validify links between the claim and the support)
-
+    Aristotle's rhetoric 
+        logos(logical proof)
+        pathos(appeals to audience)
+        ethos(ethical proof)
+    Toulmin model of argument
+        support(evidence & appeals to audience)
+        claim
+        warrant(unstated reasons or assumptions that validify links between the claim and the support)
     applying the basics
-    in writing a strong argumentative essay, we should apply the basics through the following tasks:
-        a) choose a controversial issue and explore multiple viewpoints
-        b) state a claim; an assertion or position; a statement of what you believe to be true; a demand that the reader should do
-        c) support the claim;
-        d) acknowledge opposing claims   a persuasive argument will answer opposing claims [one-sided]
+
+    in writing a strong argumentative essay, we should apply the basics through the following tasks
+    
+        1.choose a controversial issue and explore multiple viewpoints
+        1.state a claim; an assertion or position; a statement of what you believe to be true; a demand that the reader should do
+        1.support the claim;
+        1.acknowledge opposing claims   a persuasive argument will answer opposing claims [one-sided]
 
 Part III: Applying the basics
 Forms of support
