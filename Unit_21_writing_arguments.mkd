@@ -14,10 +14,7 @@
     - support(evidence & appeals to audience)
     - claim
     - warrant(unstated reasons or assumptions that validify links between the claim and the support)
-* applying the basics
-
->in writing a strong argumentative essay, we should apply the basics through the following tasks
-
+* applying the basics `in writing a strong argumentative essay, we should apply the basics through the following tasks`
     - choose a controversial issue and explore multiple viewpoints
     - state a claim; an assertion or position; a statement of what you believe to be true; a demand that the reader should do
     - support the claim;
