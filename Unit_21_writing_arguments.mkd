@@ -16,7 +16,7 @@
     - warrant(unstated reasons or assumptions that validify links between the claim and the support)
 * applying the basics `in writing a strong argumentative essay, we should apply the basics through the following tasks`
     - choose a controversial issue and explore multiple viewpoints
-    - state a claim; an assertion or position; a statement of what you believe to be true; a demand that the reader should do
+    - state a claim(an assertion or position; a statement of what you believe to be true; a demand that the reader should do)
     - support the claim;
     - acknowledge opposing claims   a persuasive argument will answer opposing claims [one-sided]
 
@@ -31,32 +31,41 @@ Forms of support
 | emothinal appeal(to reader's needs & values)| makes an appeal to the reader's sense of what is right and reasonable | induction, deduction, illustration and example, narrative, process analysis, cause-and-effect analysis, comparison-and-contrast analysis, and definition
 | logical proof(reasons & logical reasoning) | persuades the reader that your claim is reasonable and better than any others concerning this particular issue | the same as the above
 
-#Part IV: building up logical and effective arguments
-##building up an argument
-    1) inductive vs. deductive reasoning
-    2) using various writing strategies: description; narration; process; comparison and contrast; cause and effect; illustration and example; definition; classification and division
+# Part IV: building up logical and effective arguments
+## building up an argument
+1. inductive vs. deductive reasoning
+1. using various writing strategies(description; narration; process; comparison and contrast; cause and effect; illustration and example; definition; classification and division)
 
-#Part V: writing an argumentative essay
-##writing an argumentative essay
-1) prewriting -> [2) planning; 3) drafting; 4) revision & editing] -> 5) making a final copy
+# Part V: writing an argumentative essay
+## writing an argumentative essay
+1. [prewriting](#step-1-prewriting)
+1. planning(#step-2-planning)
+1. drafting(#step-3-drafting)
+1. revision & editing(#step-4-revising)
+1. making a final copy
 
-step 1 -- prewriting
-    choosing a controversial issue
-    exploring multiple viewpoints   using a clustering diagram to discover subtopics and supporting details[arguments for & arguments against]
+### step 1 prewriting
+1. choosing a controversial issue
+1. exploring multiple viewpoints(using a clustering diagram to discover subtopics and supporting details)`arguments for & arguments against`
 
-step 2 -- planning 
-    collecting evidence     research to look for facts and expert testimonies, and then select quotations that could be used in the essay
-        cite your sources and avoid plagiarism;
-        use quotation marks when copying quotations;
-        write facts in a paraphrased form 
-    citing your sources(e.g. APA style)
-        quotation: education development center emphasizes that "service-learning stands at the intersection of civic and academic engagement"(2002)
-        fact/opinion: half of today's high school students are bored in school and see no reason to get good grades(Education development center,2002)
-        fact/opinion: educators strongly believe that service-learning motivates students to try harder in school(education development center,2002)
-        References  education development center, inc. (2002).  service-learning satisfies young people's desire for public service. education development center, Inc.
+### step 2 planning 
+1. collecting evidence     
+
+>research to look for facts and expert testimonies, and then select quotations that could be used in the essay
+
+* cite your sources and avoid plagiarism;
+* use quotation marks when copying quotations;
+* write facts in a paraphrased form 
+
+1. citing your sources(e.g. APA style)
+
+* quotation: education development center emphasizes that "service-learning stands at the intersection of civic and academic engagement"(2002)
+* fact/opinion: half of today's high school students are bored in school and see no reason to get good grades(Education development center,2002)
+* fact/opinion: educators strongly believe that service-learning motivates students to try harder in school(education development center,2002)
+* References  education development center, inc. (2002).  service-learning satisfies young people's desire for public service. education development center, Inc.
     using various forms of proof    ethical proof/credibility proof; evidence and testimony; emothional appeal; logical proof
 
-step 3 -- Drafting
+step 3 Drafting
     focusing -- the introduction and conclusion
         introduction: the introduction should quickly state the problem and pull the reader into the essay
         use one thinking and writing strategy to get the essay started, 
@@ -71,6 +80,6 @@ step 3 -- Drafting
     organizing ideas and details effectively{Unit 21 video 5 11:20}
         
 #Part VI: revising and checking for fallacies
-    Step 4 -- Revising
+    Step 4 Revising
     checking for faulty reasoning
         a logical argument is based on sound reasoning. a logical fallacy is an error in reasoning(fallacies that ignore issues; fallacies that oversimplify issues)
