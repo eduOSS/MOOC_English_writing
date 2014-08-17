@@ -56,27 +56,25 @@ using a clustering diagram to discover subtopics and supporting details<br \>
     * cite your sources and avoid plagiarism;
     * use quotation marks when copying quotations;
     * write facts in a paraphrased form 
-2. citing your sources(e.g. APA style)
+1. citing your sources(e.g. APA style)
     * quotation<br \>education development center emphasizes that "service-learning stands at the intersection of civic and academic engagement"(2002)
     * fact/opinion<br \>half of today's high school students are bored in school and see no reason to get good grades(Education development center,2002)
     * fact/opinion<br \>educators strongly believe that service-learning motivates students to try harder in school(education development center,2002)
     * References<br \>education development center, inc. (2002).  service-learning satisfies young people's desire for public service. education development center, Inc.
-3. using various forms of proof    ethical proof/credibility proof; evidence and testimony; emothional appeal; logical proof
+1. using various forms of proof    ethical proof/credibility proof; evidence and testimony; emothional appeal; logical proof
 
-step 3 Drafting
-    focusing -- the introduction and conclusion
-        introduction: the introduction should quickly state the problem and pull the reader into the essay
-        use one thinking and writing strategy to get the essay started, 
-        e.g.
-            illustration-and-example introduction
-            comparison-and-contrast introduction
-            summary introduction
-        conclusion: in an argumentative essay, a conclusion usually emphasizes the reasons for
-            logical viewpoint
-            the writer's opinion
-    formulating a thesis statement       not to be too broad and too specific
-    organizing ideas and details effectively{Unit 21 video 5 11:20}
-        
+### step 3 Drafting
+1. focusing -- the introduction and conclusion
+    * introduction<br \>the introduction should quickly state the problem and pull the reader into the essay<br \>use one thinking and writing strategy to get the essay started,<br \>e.g.
+        - illustration-and-example introduction
+        - comparison-and-contrast introduction
+        - summary introduction
+    * conclusion<br \>in an argumentative essay, a conclusion usually emphasizes the reasons for
+        - logical viewpoint
+        - the writer's opinion
+1. formulating a thesis statement       not to be too broad and too specific
+1. organizing ideas and details effectively{Unit 21 video 5 11:20}
+
 #Part VI: revising and checking for fallacies
     Step 4 Revising
     checking for faulty reasoning
