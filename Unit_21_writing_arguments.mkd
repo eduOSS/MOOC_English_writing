@@ -34,7 +34,7 @@ evidence and testimony      persuade the reader, with facts, data, opinion, and 
 emothinal appeal(to reader's needs & values)[logical proof(reasons & logical reasoning)]    makes an appeal to the reader's sense of what is right and reasonable[persuades the reader that your claim is reasonable and better than any others concerning this particular issue]       induction, deduction, illustration and example, narrative, process analysis, cause-and-effect analysis, comparison-and-contrast analysis, and definition
 
 #Part IV: building up logical and effective arguments
-##building up an argument
+2.building up an argument
     1) inductive vs. deductive reasoning
     2) using various writing strategies: description; narration; process; comparison and contrast; cause and effect; illustration and example; definition; classification and division
 
