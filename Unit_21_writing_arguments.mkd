@@ -14,7 +14,8 @@
     - support(evidence & appeals to audience)
     - claim
     - warrant(unstated reasons or assumptions that validify links between the claim and the support)
-* applying the basics `in writing a strong argumentative essay, we should apply the basics through the following tasks`
+* applying the basics 
+`in writing a strong argumentative essay, we should apply the basics through the following tasks`
     - choose a controversial issue and explore multiple viewpoints
     - state a claim(an assertion or position; a statement of what you believe to be true; a demand that the reader should do)
     - support the claim;
@@ -22,7 +23,7 @@
 
 # Part III: Applying the basics
 
-Forms of support
+| __Forms of support__ | 
 
 | Forms | Purpose | conveyed through |
 |-------|---------|------------------|
@@ -46,7 +47,8 @@ Forms of support
 
 ### step 1 prewriting
 1. choosing a controversial issue
-1. exploring multiple viewpoints(using a clustering diagram to discover subtopics and supporting details)`arguments for & arguments against`
+1. exploring multiple viewpoints(using a clustering diagram to discover subtopics and supporting details)
+`arguments for & arguments against`
 
 ### step 2 planning 
 1. collecting evidence     
