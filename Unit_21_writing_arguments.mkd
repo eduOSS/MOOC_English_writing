@@ -1,10 +1,11 @@
 #Part I: Lesseon preview 
-1. [reviewing basics of argumentation](#reviewing basics of argumentation)
-1. [building up an argument](#building up an argument)
+1. [reviewing basics of argumentation](#reviewing-basics-of-argumentation)
+1. [building up an argument](#building-up-an-argument)
 1. writing an argumentative essay
 
 #Part II: Basics of Argumentation 
 ##reviewing basics of argumentation
+
     *Aristotle's rhetoric 
         - logos(logical proof)
         - pathos(appeals to audience)
