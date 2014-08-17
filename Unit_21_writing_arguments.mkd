@@ -48,22 +48,20 @@ __Forms of support__
 ### step 1 prewriting
 1. choosing a controversial issue
 1. exploring multiple viewpoints <br \>
-using a clustering diagram to discover subtopics and supporting details
+using a clustering diagram to discover subtopics and supporting details<br \>
 `arguments for & arguments against`
 
 ### step 2 planning 
-1. collecting evidence <br \>     
-research to look for facts and expert testimonies, and then select quotations that could be used in the essay
+1. collecting evidence <br \>research to look for facts and expert testimonies, and then select quotations that could be used in the essay
     * cite your sources and avoid plagiarism;
     * use quotation marks when copying quotations;
     * write facts in a paraphrased form 
 
 1. citing your sources(e.g. APA style)
-
-* quotation: education development center emphasizes that "service-learning stands at the intersection of civic and academic engagement"(2002)
-* fact/opinion: half of today's high school students are bored in school and see no reason to get good grades(Education development center,2002)
-* fact/opinion: educators strongly believe that service-learning motivates students to try harder in school(education development center,2002)
-* References  education development center, inc. (2002).  service-learning satisfies young people's desire for public service. education development center, Inc.
+    * quotation<br \>education development center emphasizes that "service-learning stands at the intersection of civic and academic engagement"(2002)
+    * fact/opinion<br \>half of today's high school students are bored in school and see no reason to get good grades(Education development center,2002)
+    * fact/opinion<br \>educators strongly believe that service-learning motivates students to try harder in school(education development center,2002)
+    * References<br \>education development center, inc. (2002).  service-learning satisfies young people's desire for public service. education development center, Inc.
     using various forms of proof    ethical proof/credibility proof; evidence and testimony; emothional appeal; logical proof
 
 step 3 Drafting
