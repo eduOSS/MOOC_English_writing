@@ -47,8 +47,9 @@ __Forms of support__
 
 ### step 1 prewriting
 1. choosing a controversial issue
-1. exploring multiple viewpoints(using a clustering diagram to discover subtopics and supporting details) <br \>
-arguments for & arguments against
+1. exploring multiple viewpoints <br \>
+using a clustering diagram to discover subtopics and supporting details
+`arguments for & arguments against`
 
 ### step 2 planning 
 1. collecting evidence <br \>     
