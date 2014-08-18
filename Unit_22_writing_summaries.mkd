@@ -35,14 +35,12 @@ writing a summary brings together a variety of reading, learning, and writing sk
 #criteria and steps
 ## how to summarize
 1. criteria of a good summary
-
 * __concise__: in a condensed form of reduced length;
 * __complete__: including all the main ideas and key supporting points in the original order;
 * __paraphrased__: writing in you own words, rarely using quotations;
 * __objective__: presenting the viewpoint in the 3rd-person voice
 
 1. steps in summary writing
-
 * 1-st reading
     - get a general idea;
     - go through the title, subtitle, first and last paragraphs, subheadings, graphics, etc.
