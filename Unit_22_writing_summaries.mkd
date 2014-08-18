@@ -1,9 +1,9 @@
-#lesson preview
-1. [Wh-questions about summary writing](questions-about-summary-writing)
+#Part I: lesson preview
+1. [Wh-questions about summary writing](#Part-II:-questions-about-summary-writing)
 1. [how to summarize](how-to-summarize)
 1. [writing a summary]()
 
-#questions about summary writing
+#Part II: questions about summary writing
 ##What is a summary? <br \> 
 to write a summary, you reduce material in the original work to its main points and key supporting details.
 
@@ -29,5 +29,5 @@ writing a summary brings together a variety of reading, learning, and writing sk
 1. to analyze and outline its main ideas, and
 1. to express those main ideas in your own words
 
-#criteria and steps
+#Part III: criteria and steps
 ## how to summarize
