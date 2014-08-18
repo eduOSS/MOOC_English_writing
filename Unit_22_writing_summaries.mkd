@@ -8,13 +8,13 @@
 to write a summary, you reduce material in the original work to its main points and key supporting details.
 
 1. a summary is not an essay but a concentrated version of the original material, presenting its main ideas, but your own point of view. 
-* in a reduced form; 
-* in your own words; 
-* in the 3rd-person point of view; 
-* rarely using quotations.
+    * in a reduced form; 
+    * in your own words; 
+    * in the 3rd-person point of view; 
+    * rarely using quotations.
 1. a summary is not an outline, but written in sentence and paragraph form so that the readers understand the general ideas of the original text, as well as their relationships.
-* presenting the ideas in the original order;
-* preserving the original sense and flavor
+    * presenting the ideas in the original order;
+    * preserving the original sense and flavor
 
 ##When and where do people use summaries?
 summaries are one of the most often-used writing formats of communication in an information-based society.
@@ -32,12 +32,12 @@ writing a summary brings together a variety of reading, learning, and writing sk
 #criteria and steps
 ## how to summarize
 1. criteria of a good summary
-* __concise__: in a condensed form of reduced length;
-* __complete__: including all the main ideas and key supporting points in the original order;
-* __paraphrased__: writing in you own words, rarely using quotations;
-* __objective__: presenting the viewpoint in the 3rd-person voice
+    * __concise__: in a condensed form of reduced length;
+    * __complete__: including all the main ideas and key supporting points in the original order;
+    * __paraphrased__: writing in you own words, rarely using quotations;
+    * __objective__: presenting the viewpoint in the 3rd-person voice
 1. steps in summary writing
-* 1-st reading
-- get a general idea;
-- go through the title, subtitle, first and last paragraphs, subheadings, graphics, etc.
+    * 1-st reading
+        - get a general idea;
+        - go through the title, subtitle, first and last paragraphs, subheadings, graphics, etc.
 1. techniques of summary writing
