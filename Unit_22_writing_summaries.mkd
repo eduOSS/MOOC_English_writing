@@ -8,16 +8,13 @@
 to write a summary, you reduce material in the original work to its main points and key supporting details.
 
 1. a summary is not an essay but a concentrated version of the original material, presenting its main ideas, but your own point of view. 
-
-* in a reduced form; 
-* in your own words; 
-* in the 3rd-person point of view; 
-* rarely using quotations.
-
+    * in a reduced form; 
+    * in your own words; 
+    * in the 3rd-person point of view; 
+    * rarely using quotations.
 1. a summary is not an outline, but written in sentence and paragraph form so that the readers understand the general ideas of the original text, as well as their relationships.
-
-* presenting the ideas in the original order;
-* preserving the original sense and flavor
+    * presenting the ideas in the original order;
+    * preserving the original sense and flavor
 
 ##When and where do people use summaries?
 summaries are one of the most often-used writing formats of communication in an information-based society.
@@ -42,15 +39,23 @@ writing a summary brings together a variety of reading, learning, and writing sk
 1. steps in summary writing
     * 1-st reading
         - get a general idea;
-        - go through the title, subtitle, first and last paragraphs, subheadings, graphics, etc.
+        - go through *the title, subtitle, first and last paragraphs, subheadings, graphics, special typography*, etc.
     * 2-nd reading
         - list main ideas;
         - highlight main points and key supporting details;
-        - jot down notes
+        - turn any headings into questions and then to find the answers to the questions;
+        - jot down notes;
+        - reread your checked or highlighted sections and review your notes.
     * drafting & revising
-        - cite the source first;
-        - include key points;
-        - write in your own words;
+        - cite the source first;<br \> identify the title, the author, and the date of publication at the very start for example`in "the new, old jamaica" (saturday night, June 2004), samra habib writes .... `
+        - include key points and key supporting details;
+        - write in your own words, and quote from the material only to illustrate key points;
+        - follow the original logic and order of the original work
         - revise for clarity, unity, and coherence.
 
+# summarizing techniques
 1. techniques of summary writing
+    * grasping a major idea
+    * compressing
+    * paraphrasing
+    * condensing
