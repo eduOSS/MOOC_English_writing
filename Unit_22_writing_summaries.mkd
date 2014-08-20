@@ -1,7 +1,7 @@
 #lesson preview
 1. [Wh-questions about summary writing](#questions-about-summary-writing)
 1. [how to summarize](#how-to-summarize)
-1. [writing a summary]()
+1. [writing a summary](writing-a-summary)
 
 #questions about summary writing
 ##What is a summary? <br \> 
@@ -77,3 +77,28 @@ writing a summary brings together a variety of reading, learning, and writing sk
         - put main points of dialogues in indirect speech;
         - use short *transitions*
     `e.g. "the company is hard up for money and is pressed by its creditors."-> "the company is in financial difficulties"`
+
+# writing a summary
+1. 1-st reading of the article;
+    * title & subtitle: the title "the new, old jamaica" seems too general; no subtitle;
+    * paragraph 1 
+    * last paragraph
+1. 2-nd reading: listing the main ideas;
+
+## revising a summary
+1. compressing the list;<br \>shorten the list by compressing the ideas and eliminating less related and repeated points
+1. drafting and revising the summary
+    * to tighten the text:
+        - condensing related ideas into single phrases or sentences
+        - editing wordy phrases(W)
+        - removing repetitions(R)
+
+# writing assignment
+* write a one-or two-paragraph summary of an article from the newspaper China Daily (follow the steps and advice presented in the lesson)
+* see if you can choose an article that is related to your study subject or you personal interest
+
+# lesson review 
+`wrap up this lesson`
+1. [Wh-questions about summary writing](#questions-about-summary-writing) <br \> show the __necessity__ and importance of summary writing
+1. [how to summarize](#how-to-summarize) <br \> show steps and __techniques__ of summary writing
+1. [writing a summary](writing-a-summary) <br \> show an example of writing a summary
