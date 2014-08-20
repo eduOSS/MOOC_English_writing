@@ -27,10 +27,10 @@ __Forms of support__
 
 | Forms | Purpose | conveyed through |
 |-------|---------|------------------|
-| ethical proof/credibility proof | persuades the reader that you, the writer, are well informed and reliable | personal narrative, your confidence and knowlege of the subject 
-| evidence and testimony | persuade the reader, with facts, data, opinion, and expert/authority testimony | factual and statistical information, citations of experts and authorities
-| emothinal appeal(to reader's needs & values)| makes an appeal to the reader's sense of what is right and reasonable | induction, deduction, illustration and example, narrative, process analysis, cause-and-effect analysis, comparison-and-contrast analysis, and definition
-| logical proof(reasons & logical reasoning) | persuades the reader that your claim is reasonable and better than any others concerning this particular issue | the same as the above
+| ethical proof/credibility proof | persuades the reader that **you**, the writer, are well informed and reliable | personal narrative, your confidence and knowlege of the subject 
+| evidence and testimony | persuade the reader, with **facts, data, opinion, and expert/authority testimony** | factual and statistical information, citations of experts and authorities
+| emotional appeal(to reader's needs & values)| makes an appeal to the **reader**'s sense of what is right and reasonable | induction, deduction, illustration and example, narrative, process analysis, cause-and-effect analysis, comparison-and-contrast analysis, and definition
+| logical proof(reasons & logical reasoning) | persuades the reader that your claim is reasonable and better than any **others** concerning this particular issue | the same as the above
 
 # Part IV: building up logical and effective arguments
 ## building up an argument
