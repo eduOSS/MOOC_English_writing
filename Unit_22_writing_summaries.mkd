@@ -10,10 +10,10 @@ to write a summary, you reduce material in the original work to its main points 
 1. a summary is not an essay but a concentrated version of the original material, presenting its main ideas, but your own point of view. 
     * in a reduced form; 
     * in your own words; 
-    * in the 3rd-person point of view; 
+    * **in the 3rd-person point of view**; 
     * rarely using quotations.
 1. a summary is not an outline, but written in sentence and paragraph form so that the readers understand the general ideas of the original text, as well as their relationships.
-    * presenting the ideas in the original order;
+    * presenting the ideas in the **original order**;
     * preserving the original sense and flavor
 
 ##When and where do people use summaries?
@@ -25,9 +25,9 @@ summaries are one of the most often-used writing formats of communication in an 
 
 ##Why is summary writing so difficult?
 writing a summary brings together a variety of reading, learning, and writing skills.<br \>
-1. to read(or watch or listen to) carefully,
-1. to analyze and outline its main ideas, and
-1. to express those main ideas in your own words
+1. to *read*(or watch or listen to) carefully,
+1. to *analyze and outline* its main ideas, and
+1. to express those main ideas *in your own words*
 
 #criteria and steps
 ## how to summarize
@@ -39,11 +39,11 @@ writing a summary brings together a variety of reading, learning, and writing sk
 1. steps in summary writing
     * 1-st reading
         - get a general idea;
-        - go through *the title, subtitle, first and last paragraphs, subheadings, graphics, special typography*, etc.
+        - go through **the title, subtitle, first and last paragraphs, subheadings, graphics, special typography**, etc.
     * 2-nd reading
         - list main ideas;
         - highlight main points and key supporting details;
-        - turn any headings into questions and then to find the answers to the questions;
+        - **turn any headings into questions and then to find the answers to the questions**;
         - jot down notes;
         - reread your checked or highlighted sections and review your notes.
     * drafting & revising
@@ -55,7 +55,25 @@ writing a summary brings together a variety of reading, learning, and writing sk
 
 # summarizing techniques
 1. techniques of summary writing
-    * grasping a major idea
+    * grasping a major idea<br \>take advantage of the writing structure to look for the major idea in --
+        - the thesis statement (at the end of an introduction)
+        - the topic sentence (in a deductive or inductive paragraph)
+        - the introduction (that describes what the essay aims to prove or demonstrate)
+        - the conclusion (that declares how the facts support the argument)
     * compressing
-    * paraphrasing
+        - simplify *descriptions*
+        - omit *details*
+        - reduce *examples*
+        - eliminate repetitions
+    * **paraphrasing**
+        - write a restatement;
+        - reserve the author's intended meaning;
+        - use *different words*;
+        - recorganize the ideas
     * condensing
+        - change phrases to words;
+        - change passages and sentences to phrases
+        - replace specific words with general words;
+        - put main points of dialogues in indirect speech;
+        - use short *transitions*
+    `e.g. "the company is hard up for money and is pressed by its creditors."-> "the company is in financial difficulties"`
