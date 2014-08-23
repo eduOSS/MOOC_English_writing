@@ -31,5 +31,10 @@
 
 # Part III: Common Structure of Reviews
 1. How to write a Review
-    * The Structure of Reviews
-    * Language Features of Reviews
+  * The Structure of Reviews<br \>reviews, both short(one page) and long(four pages), usually have a similar structure in four sections;
+    - introduction
+    - summary
+    - evaluation
+    - conclusion
+    - headings are optional
+  * Language Features of Reviews
