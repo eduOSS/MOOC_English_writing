@@ -56,7 +56,7 @@
 # part IV: Language Features
 1. Language Features of Reviews
   * reporting verbs
-    - reviews use reporting verbs to label, or report on, what the authors have done: whether they have made ckaims, aurgued a case, established finding, drawn conclusionnnns, etc.`present sence, plural`
+    - reviews use reporting verbs to label, or report on, what the authors have done: whether they have made claims, aurgued a case, established finding, drawn conclusionnnns, etc.`present sence, plural`
   ![Alt text](./pic/23crv.jpg "common reporting verbs")
   * modality
     - modal verbs and other expressions are used to express degrees of certainty and probability
@@ -70,6 +70,20 @@
 # Part V: Analysis of a Book Review
 1. Review Writing Samples 
   * Sample 1: A Book Review
+  __Sample Review of Things Fall Apart__
   ![Alt text](./pic/23sample1.png)
+  __Review's Structure__
   ![Alt text](./pic/23sample1_1.png)
+    - paragraph 1 is an introduction
+    ![Alt text](./pic/23sample1_p1.png)
+    - paragraph 2 to 4 is the summary part <br \>notice that the reviewer uses the __present sence__ throughout the three paragraphs 
+    - the last paragraph includes evaluation and conclusion
+    ![Alt text](./pic/23sample1_p2.png)
+    **notice the usage of tenses**
+    ![Alt text](./pic/simple_tenses.png)
+    |tense|when to use|
+    |-----|-----------|
+    |present tense|to discuss characters and events in the book|
+    |past tense|to refer to the writer's action that happened in the past in the real|
+    ![Alt text](./pic/23sample1_p3.png)
   * Sample 2: A Review of a Journal Article
