@@ -81,7 +81,7 @@
     ![Alt text](./pic/23sample1_p2.png)
     **notice the usage of tenses**
     ![Alt text](./pic/simple_tenses.png)
-    ![Alt text](./pic/23sample1_p3.png)
+    ![Alt text](./pic/23sample1_p3.png)  <br \>
     |tense|when to use|
     |-----|-----------|
     |present tense|to discuss __characters and events__ in the book|
