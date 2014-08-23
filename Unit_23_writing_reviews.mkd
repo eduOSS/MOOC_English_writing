@@ -80,11 +80,13 @@
     - the last paragraph includes evaluation and conclusion
     ![Alt text](./pic/23sample1_p2.png)
     **notice the usage of tenses**
-    ![Alt text](./pic/simple_tenses.png)
     ![Alt text](./pic/23sample1_p3.png)
 
       |tense|when to use|
       |-----|-----------|
       |present tense|to discuss __characters and events__ in the book|
       |past tense|to refer to the writer's action that happened __in the past in the real__|
+    here is the tense table
+    ![Alt text](./pic/23simple_tenses.gif)
+
   * Sample 2: A Review of a Journal Article
