@@ -87,6 +87,7 @@
       |present tense|to discuss __characters and events__ in the book|
       |past tense|to refer to the writer's action that happened __in the past in the real__|
     here is the tense table
+
     ![Alt text](./pic/23simple_tenses.gif)
 
   * Sample 2: A Review of a Journal Article
