@@ -57,10 +57,11 @@
   * Language Features of Reviews
     - reporting verbs
       - reviews use reporting verbs to label, or report on, what the authors have done: whether they have made ckaims, aurgued a case, established finding, drawn conclusionnnns, etc.`present sence, plural`
-    ![Alt text](./crv.jpg "common reporting verbs")
+    ![Alt text](./pic/23crv.jpg "common reporting verbs")
     - modality
       - modal verbs and other expressions are used to express degrees of certainty and probability
       - writers use modality to present ideas rather than facts.`concessive clause`
     - conceding (concessive phrases and clauses)
 
   > Though by no means the first empiricist among the Greek philosophers, Aristotle stood out among his contemporaries for the meticulous care with which he worked.<br \>    (R.Dunbar, The Trouble with Science, London:Faber&Faber, 1995)
+  > **As a language strategy, conceding is used to show balance and fairness**
