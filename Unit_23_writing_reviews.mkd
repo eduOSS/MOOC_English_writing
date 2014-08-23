@@ -56,5 +56,7 @@
 # part IV: Language Features
   * Language Features of Reviews
     - reporting verbs
+      - reviews use reporting verbs to label, or report on, what the authors have done: whether they have made ckaims, aurgued a case, established finding, drawn conclusionnnns, etc.
+    ![Alt text](./crv.jpg "no name")
     - modality
     - conceding (concessive phrases and clauses)
