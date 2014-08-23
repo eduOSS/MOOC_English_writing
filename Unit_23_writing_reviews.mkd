@@ -5,36 +5,56 @@
 
 # Part II: Introduction to Review Writing
 1. How much do you know about review writing?
-    * What Is a Review?
-    `A review is a form of literary criticism in which a book is analyzed based on content, style, and merit. --Wikipedia`
-    * Where do you find reviews?
-        - Indexes in special datebases: Book Review Index, Kirkus Reviews
-        - Online indexes: www.bookreviewbuz.com
-        - Indexes in scholarly databases: AHCI(Arts and Humanities  Citation Index), SSCI(Social Sciences Citation Index)
-        - Discipline-specific databases
-    * College assignments of reviews
-        - reviews of printed texts: book reviews; reviews of articles, stories, or essays
-        - reviews of other forms of discourse: movie review; TV review; commercial review; music review, etc.
-    * What's Special about a Review?<br \> A review's length may vary from a single paragraph to a substantial essay. It is not just a summary of the material but a **critical** work that combines--
-        - a **summary** of what the material is about,
-        - an **analysis** of its central idea and main points, and 
-        - an **evaluation** of its significance
-    * What is meant by "critical"?<br \>Being "critical" does not mean to criticize in a negative manner;<br \>Being critical requires--
-        - questioning the information and opinions in a text and present your **evaluation or judgment** of the text;
-        - understanding the topic from **different perspectives** and in relation to the theories, approches and frameworks in your subject 
-    * What is meant by "analysis"?<br \>Analyzing requires--
-        - separatinga the content and concepts of a text into their main components;
-        - studying how these components interrelated, connect, possibly influence each other
-    * What is meant by "Evaluation"?<br \>Evaluating requires--
-        - making judgment of the strengths and weaknesses of the text based on specific criteria;
-        - evaluating not only the content of the text but also its organization, purpose, and intended audience
+  * What Is a Review?
+  `A review is a form of literary criticism in which a book is analyzed based on content, style, and merit. --Wikipedia`
+  * Where do you find reviews?
+    - Indexes in special datebases: Book Review Index, Kirkus Reviews
+    - Online indexes: www.bookreviewbuz.com
+    - Indexes in scholarly databases: AHCI(Arts and Humanities  Citation Index), SSCI(Social Sciences Citation Index)
+    - Discipline-specific databases
+  * College assignments of reviews
+    - reviews of printed texts: book reviews; reviews of articles, stories, or essays
+    - reviews of other forms of discourse: movie review; TV review; commercial review; music review, etc.
+  * What's Special about a Review?<br \> A review's length may vary from a single paragraph to a substantial essay. It is not just a summary of the material but a **critical** work that combines--
+    - a **summary** of what the material is about,
+    - an **analysis** of its central idea and main points, and 
+    - an **evaluation** of its significance
+  * What is meant by "critical"?<br \>Being "critical" does not mean to criticize in a negative manner;<br \>Being critical requires--
+    - questioning the information and opinions in a text and present your **evaluation or judgment** of the text;
+    - understanding the topic from **different perspectives** and in relation to the theories, approches and frameworks in your subject 
+  * What is meant by "analysis"?<br \>Analyzing requires--
+    - separatinga the content and concepts of a text into their main components;
+    - studying how these components interrelated, connect, possibly influence each other
+  * What is meant by "Evaluation"?<br \>Evaluating requires--
+    - making judgment of the strengths and weaknesses of the text based on specific criteria;
+    - evaluating not only the content of the text but also its organization, purpose, and intended audience
 
 # Part III: Common Structure of Reviews
 1. How to write a Review
   * The Structure of Reviews<br \>reviews, both short(one page) and long(four pages), usually have a similar structure in four sections;
     - introduction
+      - bibliographic information
+      - a brief overview
+      - background information,
     - summary
+      - a briefing of the key points;
+      - the author's purpose/intention;
+      - the organization of the text
     - evaluation
+      - how well the text has achieved its goal,
+      - what possibilities are suggested by the text,
+      - what the text has left out,
+      - what specific points are not convincing,
+      - how it compares to others on the subject, and/or
+      - what personal experiences are related to the subject
     - conclusion
+      - restatement of your overall evaluation;
+      - recommendations;
+      - further qualification or explanation if necessary
     - headings are optional
+
+# part IV: Language Features
   * Language Features of Reviews
+    - reporting verbs
+    - modality
+    - conceding (concessive phrases and clauses)
