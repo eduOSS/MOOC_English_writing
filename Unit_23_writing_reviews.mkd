@@ -68,7 +68,7 @@
   > **As a language strategy, conceding is used to show balance and fairness**
 
 # Part V: Analysis of a Book Review
-## Review Writing Samples 
+1. Review Writing Samples 
   * Sample 1: A Book Review
   __Sample Review of Things Fall Apart__
   ![Alt text](./pic/23sample1.png)
