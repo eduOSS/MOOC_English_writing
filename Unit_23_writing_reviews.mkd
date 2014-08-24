@@ -1,10 +1,10 @@
 # Part II: lesson preview
-1. Wh- Questions about Review Writing
-1. How to Write a Review
-1. Review Writing Samples
+1. [Wh- Questions about Review Writing](how-much-do-you-know-about-review-writing?)
+1. [How to Write a Review](how-to-write-a-review)
+1. [Review Writing Samples](review-writing-samples)
 
 # Part II: Introduction to Review Writing
-1. How much do you know about review writing?
+## How much do you know about review writing?
   * What Is a Review?
   `A review is a form of literary criticism in which a book is analyzed based on content, style, and merit. --Wikipedia`
   * Where do you find reviews?
@@ -30,7 +30,7 @@
     - evaluating not only the content of the text but also its organization, purpose, and intended audience
 
 # Part III: Common Structure of Reviews
-1. How to write a Review
+## How to write a Review
   * The Structure of Reviews<br \>reviews, both short(one page) and long(four pages), usually have a similar structure in four sections;
     - introduction
       - bibliographic information
@@ -68,7 +68,7 @@
   > **As a language strategy, conceding is used to show balance and fairness**
 
 # Part V: Analysis of a Book Review
-1. Review Writing Samples 
+## Review Writing Samples 
   * Sample 1: A Book Review
   __Sample Review of Things Fall Apart__
   ![Alt text](./pic/23sample1.png)
