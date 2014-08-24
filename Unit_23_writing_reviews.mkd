@@ -1,7 +1,7 @@
 # Part II: lesson preview
-1. [Wh- Questions about Review Writing](how-much-do-you-know-about-review-writing?)
-1. [How to Write a Review](how-to-write-a-review)
-1. [Review Writing Samples](review-writing-samples)
+1. [Wh- Questions about Review Writing](#how-much-do-you-know-about-review-writing?)
+1. [How to Write a Review](#how-to-write-a-review)
+1. [Review Writing Samples](#review-writing-samples)
 
 # Part II: Introduction to Review Writing
 ## How much do you know about review writing?
@@ -74,6 +74,7 @@
   ![Alt text](./pic/23sample1.png)
   __Review's Structure__
   ![Alt text](./pic/23sample1_1.png)
+
     - paragraph 1 is an introduction
     ![Alt text](./pic/23sample1_p1.png)
     - paragraph 2 to 4 is the summary part <br \>notice that the reviewer uses the __present sence__ throughout the three paragraphs 
