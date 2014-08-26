@@ -12,6 +12,7 @@
   * Immediate oversight for reviewers;
   * Indexing help for professional abstract writers and editors
 1. When were RA abstracts developed?
+
   |before|1960s|late 1980s|
   |------|-----|----------|
   |No abstracts in research articles published before the 1960s|Abstracts first introduced in medical research journals in the 1960s|Structured abstracts developed in addition to traditional IMRAD(introduction, material, results and discussion) abstracts|
@@ -33,6 +34,7 @@
   Different Formats of Abstracts from scholarly Research Articles
   ![Alt text](./pic/25example1.png)
 1. What's special about the writing of abstracts?
+
   > "I would have written a shorter letter, but I didn't have the time" -- Blaise Pascal 1657
   > E = mcc is the shortest abstract in history
   Writing a good abstract really cost time
@@ -41,6 +43,7 @@
 1. Lengths of RA abstracts
   vary from different kind of field
 1. Structure of "Rhetorical Moves"
+
   | move|typical labels|implied questions|
   |-----|--------------|-----------------|
   | move 1 | background/introduction/situation | what do we know about the topic? why is the topic important? |
