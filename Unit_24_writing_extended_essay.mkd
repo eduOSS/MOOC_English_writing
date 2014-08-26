@@ -18,7 +18,7 @@ What are differences between the structure of an extended essay and that of a tr
   * Provide important definitions
 1. Contextual Information
   * To identify the focus of the discussion;
-  * To provide contetual information to bridge the gaps;
+  * To provide contextual information to bridge the gaps;
   * To organize the information in the most efficient and effective way<br \>Organizing the information in --
     - Chronological order
     - Order of importance
@@ -37,7 +37,7 @@ What are differences between the structure of an extended essay and that of a tr
 ## How to Write the Body
   * Grouping body paragraphs into sections, using section headings if necessary;
   ![Alt text](./pic/24body_p1.png)
-  * Writing each paragraph at a time by using the "hamburger" model `in accordance with`
+  * Writing each paragraph at a time by using the "hamburger" model `in accordance with`<br \>
   The hamburger model
   ![Alt text](./pic/24hamburger_p1.png)
   * Four Main Parts of a Paragraph
@@ -49,7 +49,7 @@ What are differences between the structure of an extended essay and that of a tr
 
 # Part V: The Conclusion
 ## How to write the conclusion 
-`be squeezed into`
+`be squeezed into` <br \>
 The following target areas are effective to tackle in your conclusion. To close up, you may try to--
   * provide a brief summary of your main points
   * incite the reader to act
