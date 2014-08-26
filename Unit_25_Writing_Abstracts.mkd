@@ -15,7 +15,7 @@
 
   |before|1960s|late 1980s|
   |------|-----|----------|
-  |No abstracts in research articles published before the 1960s|Abstracts first introduced in medical research journals in the 1960s|Structured abstracts developed in addition to traditional IMRAD(introduction, material, results and discussion) abstracts|
+  |No abstracts in research articles published before the 1960s|Abstracts first introduced in medical research journals in the 1960s|**Structured abstracts** developed in addition to traditional IMRAD(introduction, material, results and discussion) abstracts|
 1. How many types of RA abstracts? <br \> Four commonly used types of RA abstracts:
   * Abstracts for research **journal** articles;
   * Abstracts for **Master's theses and doctoral dissertations**;
@@ -35,7 +35,7 @@
   ![Alt text](./pic/25example1.png)
 1. What's special about the writing of abstracts?
 
-  > "I would have written a shorter letter, but I didn't have the time" -- Blaise Pascal 1657
+  > "I would have written a shorter letter, but I didn't have the time" -- Blaise Pascal 1657<br \>
   > E = mcc is the shortest abstract in history
   Writing a good abstract really cost time
 
@@ -44,7 +44,7 @@
   vary from different kind of field
 1. Structure of "Rhetorical Moves"
 
-  | move|typical labels|implied questions|
+  | move |typical labels|implied questions|
   |-----|--------------|-----------------|
   | move 1 | background/introduction/situation | what do we know about the topic? why is the topic important? |
   | move 2 | present research/purpose | what is this study about? |
