@@ -6,49 +6,49 @@
 # Part II: Questions about Lab Reports
 ## Wh- Questions about Lab Reports
 1. What are the major types of lab reports?
-* Filling out report sheets of lab outcomes: esp. in the 70's and 80's, and currently in some large universities;
-* Writing lab reports: in the last 10-15 years; the trend has been to push students to do mmore critical thinking and learn to express themselves better.
+  * Filling out report sheets of lab outcomes: esp. in the 70's and 80's, and currently in some large universities;
+  * Writing lab reports: in the last 10-15 years; the trend has been to push students to do mmore critical thinking and learn to express themselves better.
 1. What does a lab report do?<br \>
 A lab report 
-* establishes the purpose of the lab,
-* allows you to analyze a scientific concept,
-* gives you opportunity to write scientifically in a format very similar to that used by scientists, and 
-* documents what you have learned.
+  * establishes the purpose of the lab,
+  * allows you to analyze a scientific concept,
+  * gives you opportunity to write scientifically in a format very similar to that used by scientists, and 
+  * documents what you have learned.
 1. Why learn to write lab reports?
-* Ability to write lab report is a necessary skill in science;
-* Scientists need to learn to report results obtained in an experiment;
-* Results to be published must be in the format required by the publisher. `embark a career in`
+  * Ability to write lab report is a necessary skill in science;
+  * Scientists need to learn to report results obtained in an experiment;
+  * Results to be published must be in the format required by the publisher. `embark a career in`
 1. What are the common forms of lab reports?
-* short and/or informal reports<br \>
-  i.e. written in memos
-* formal reports<br \>
-  i.e. written in a standardized format `devote lesson to; survey the content`
+  * short and/or informal reports<br \>
+    i.e. written in memos
+  * formal reports<br \>
+    i.e. written in a standardized format `devote lesson to; survey the content`
 
 # Part III: Parts of an Informal Lab Reports
 ## Short and/or Informal Lab Reports
-1. Memo format
+1. Memo format<br \>
   ![Alt text](./pic/26memoexa.jpg)
 1. Parts of an informal report<br \>
-Including some or all of these parts:
-* Headings<br \>
-  List information such as To, From, Subject, Date, and so on, and states the subject clearly and concisely with the most important words at the beginning of the subject line.
-* Introduction: the purpose, problem, and scope<br \>
-Three-Part Introductory Statement
-![Alt text](./dic/26thpain.jpg)
-  - The 3-part introductory statement;
-  - The purpose written in a questions format
-Example:<br \>
-  How does heat affect the rate of a reaction?
-* Procedures: the equipment and/or tools used and the methods.<br \>
-This part gives an accurate detailed paragraph description of what was done in the experiment.
-  - List the equipment, materials and quantities used in your experiment
-  - Be clear enough to be replicated by another person.
-  - Do not include observations or results in the narrative. Include flow charts or diagrams if necessary.
-  - Use the past tense.
-  ![Alt text](./pic/26pro.jpg)
-* Data: the data obtained, discussed and evaluated
-  ![Alt text](./pic/26data.jpg)
-* Conclusions and recommendations<br \>
-  This part presents the significant implications and recommendations for action
-  ![Alt text](./pic/26conrec.jpg)
+  Including some or all of these parts:
+  * Headings<br \>
+    List information such as To, From, Subject, Date, and so on, and states the subject clearly and concisely with the most important words at the beginning of the subject line.
+  * Introduction: the purpose, problem, and scope<br \>
+  Three-Part Introductory Statement<br \>
+  ![Alt text](./dic/26thpain.jpg)
+    - The 3-part introductory statement;
+    - The purpose written in a questions format
+  Example:<br \>
+    How does heat affect the rate of a reaction?
+  * Procedures: the equipment and/or tools used and the methods.<br \>
+  This part gives an accurate detailed paragraph description of what was done in the experiment.
+    - List the equipment, materials and quantities used in your experiment
+    - Be clear enough to be replicated by another person.
+    - Do not include observations or results in the narrative. Include flow charts or diagrams if necessary.
+    - Use the past tense.<br \>
+    ![Alt text](./pic/26pro.jpg)
+  * Data: the data obtained, discussed and evaluated<br \>
+    ![Alt text](./pic/26data.jpg)
+  * Conclusions and recommendations<br \>
+    This part presents the significant implications and recommendations for action<br \>
+    ![Alt text](./pic/26conrec.jpg)
 
