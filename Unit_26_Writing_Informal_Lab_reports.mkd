@@ -34,7 +34,7 @@ A lab report
     List information such as To, From, Subject, Date, and so on, and states the subject clearly and concisely with the most important words at the beginning of the subject line.
   * Introduction: the purpose, problem, and scope<br \>
   Three-Part Introductory Statement<br \>
-  ![Alt text](./dic/26thpain.jpg)
+  ![Alt text](./pic/26thpain.jpg)
     - The 3-part introductory statement;
     - The purpose written in a questions format
   Example:<br \>
