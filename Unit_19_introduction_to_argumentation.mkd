@@ -9,42 +9,42 @@
 ## argumentation in academic writing
 the arguments we deal with in academic writing are often ordinary discourse about matters of public controversy.
 * key terms of argument
-   - issue<br \>
-   an important subject that people are arguing about;
-   - topic<br \>
-   a particular subject matter the writer considers; a topic is a more specific part of the issue;
-   - claim<br \>
-   a statement that presses the writer's view about the topic; central argument of the essay;
-   - sub-claims<br \>
-   reasons, main ideas, micro arguments that support the claim or central argument
-   - example
-      1. issue<br \>
-      the environment
-      1. topic<br \>
-      damages of environment
-      1. claim<br \>
-      the environment has become the most serious problem the world faces today
-      1. sub-claim<br \>
-      the rain forests are being destroyed; many important water sources are being polluted by industry; the ozone layer, which protects us from harmful sun rays, is being destroyed by chemicals
-    * steps to construct an argument
-    * general strategies of argumentation
-    * alternative terms
+  - issue<br \>
+  an important subject that people are arguing about;
+  - topic<br \>
+  a particular subject matter the writer considers; a topic is a more specific part of the issue;
+  - claim<br \>
+  a statement that presses the writer's view about the topic; central argument of the essay;
+  - sub-claims<br \>
+  reasons, main ideas, micro arguments that support the claim or central argument
+* example
+  - issue<br \>
+  the environment
+  - topic<br \>
+  damages of environment
+  - claim<br \>
+  the environment has become the most serious problem the world faces today
+  - sub-claim<br \>
+  the rain forests are being destroyed; many important water sources are being polluted by industry; the ozone layer, which protects us from harmful sun rays, is being destroyed by chemicals
+* steps to construct an argument
+* general strategies of argumentation
+* alternative terms
 
 # Part IV: steps and strategies of argumentation
 ## steps to construct an argument
 to construct an argument, we will 
-    1. make a case;
-    1. argue the point;
-    1. persuade the audience:
-        1. look for *common* ground;
-        1. consider *different* viewpoints and their reasons;
-        1. take a position and present *evidence*;
-        1. convince the audience that one viewpoint is *more* acceptable than the others.
+  1. make a case;
+  1. argue the point;
+  1. persuade the audience:
+     1. look for *common* ground;
+     1. consider *different* viewpoints and their reasons;
+     1. take a position and present *evidence*;
+     1. convince the audience that one viewpoint is *more* acceptable than the others.
 ## general strategies of argumentation
-        a) use appropriate language to clarify the problem and articulate a coherent perspective on it;
-        b) point out common ground to settle matters;
-        c) acknowledge different viewpoints, sometimes to grant their merits and at other times to rebut the opposing arguments;
-        d) appeal to your readers and motivate them to act
+  1. use appropriate language to clarify the problem and articulate a coherent perspective on it;
+  1. point out common ground to settle matters;
+  1. acknowledge different viewpoints, sometimes to grant their merits and at other times to rebut the opposing arguments;
+  1. appeal to your readers and motivate them to act
 ## alternative terms
         claim: thesis; proposition; conclusion; main point; macro-argument; controlling idea
         statement of claim: thesis statement; purpose sentence; statement of focus; statement of proposition;
