@@ -26,22 +26,20 @@ Some brainstorming activities will help you discover ideas for you essay. The br
   - first,write the topic in the center of the paper and circle it; 
   - second, jot down related ideas hierachically and connect them;
   - third, form a outline as a plan to write. An outline is useful for two reasons: <br \>
-      1. make your essay more focused on the central ideas. 
-      1. use the ourline to save time.
-                
-                questioning
+    1. make your essay more focused on the central ideas. 
+    1. use the ourline to save time.
+* questioning<br \>
+  narrow down on central ideas
 
-        narrow down on central ideas
-
-1.3 Drafting and Revising
+## Drafting and Revising
 When you begin writing your rough draft, try to remember --
-To write a rough draft, you should develop and support the ideas listed in your outline.
-You should not worry about spelling and grammar right now because you can check this later.
+  * To write a rough draft, you should develop and support the ideas listed in your outline.
+  * You should not worry about spelling and grammar right now because you can check this later.
 
-1.4 Revising and Editing
-Revising
-After you write your first draft, go back over it and look for ways to improve your essay in content and organization. This step is called revision. Revise content and organization. 
-the built-in spell checker
+## Revising and Editing
+  * Revising<br \>
+  After you write your first draft, go back over it and look for ways to improve your essay in content and organization. This step is called revision. Revise content and organization. 
+  * the built-in spell checker
 
-1.5 Correct paper formatting
+## Correct paper formatting
 does there exist any software that support essay writing? I know that mind map is a good tool, but what else that would be more specific to writing supporting?
