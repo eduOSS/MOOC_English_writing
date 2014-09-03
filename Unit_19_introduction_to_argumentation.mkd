@@ -1,43 +1,51 @@
-Part I: lesson preview
+# Part I: lesson preview
 1. understanding argumentation
-2. argumentation in academic writing
-3. argumentative writing
+1. argumentation in academic writing
+1. argumentative writing
 
-Part II: understanding argumentation
+# Part II: understanding argumentation
 
-Part III: key terms of argument
-2. argumentation in academic writing
+# Part III: key terms of argument
+## argumentation in academic writing
     the arguments we deal with in academic writing are often ordinary discourse about matters of public controversy.
-    1) key terms of argument
-        issue: an important subject that people are arguing about;
-        topic: a particular subject matter the writer considers; a topic is a more specific part of the issue;
-        claim: a statement that presses the writer's view about the topic; central argument of the essay;
-        sub-claims: reasons, main ideas, micro arguments that support the claim or central argument
-        example:
-            issue: the environment
-            topic: damages of environment
-            claim: the environment has become the most serious problem the world faces today
-            sub-claim: the rain forests are being destroyed; many important water sources are being polluted by industry; the ozone layer, which protects us from harmful sun rays, is being destroyed by chemicals
-    2) steps to construct an argument
-    3) general strategies of argumentation
-    4) alternative terms
+    * key terms of argument
+        - issue<br \>
+        an important subject that people are arguing about;
+        - topic<br \>
+        a particular subject matter the writer considers; a topic is a more specific part of the issue;
+        - claim<br \>
+        a statement that presses the writer's view about the topic; central argument of the essay;
+        - sub-claims<br \>
+        reasons, main ideas, micro arguments that support the claim or central argument
+        - example
+            1. issue<br \>
+            the environment
+            1. topic<br \>
+            damages of environment
+            1. claim<br \>
+            the environment has become the most serious problem the world faces today
+            1. sub-claim<br \>
+            the rain forests are being destroyed; many important water sources are being polluted by industry; the ozone layer, which protects us from harmful sun rays, is being destroyed by chemicals
+    * steps to construct an argument
+    * general strategies of argumentation
+    * alternative terms
 
-Part IV: steps and strategies of argumentation
-    2) steps to construct an argument
-    to construct an argument, we will 
-        A. make a case;
-        B. argue the point;
-        C. persuade the audience:
-            a. look for *common* ground;
-            b. consider *different* viewpoints and their reasons;
-            c. take a position and present *evidence*;
-            d. convince the audience that one viewpoint is *more* acceptable than the others.
-    3) general strategies of argumentation
+# Part IV: steps and strategies of argumentation
+## steps to construct an argument
+to construct an argument, we will 
+    1. make a case;
+    1. argue the point;
+    1. persuade the audience:
+        1. look for *common* ground;
+        1. consider *different* viewpoints and their reasons;
+        1. take a position and present *evidence*;
+        1. convince the audience that one viewpoint is *more* acceptable than the others.
+## general strategies of argumentation
         a) use appropriate language to clarify the problem and articulate a coherent perspective on it;
         b) point out common ground to settle matters;
         c) acknowledge different viewpoints, sometimes to grant their merits and at other times to rebut the opposing arguments;
         d) appeal to your readers and motivate them to act
-    4) alternative terms
+## alternative terms
         claim: thesis; proposition; conclusion; main point; macro-argument; controlling idea
         statement of claim: thesis statement; purpose sentence; statement of focus; statement of proposition;
         sub-claims: reasons; main ideas; micro-arguments; arguments; lines of argument; supporting arguments; specific issues
