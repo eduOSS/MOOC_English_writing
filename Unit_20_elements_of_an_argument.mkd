@@ -62,8 +62,7 @@ argument is 'the art of influencing others, through the medium of reasoned disco
   if the audience shares the warrant, and the link between the claim and support is made the argument will be convincing
 
 # Lesson review
-1. defining argument: a review
-1. the claim
-1. the support
-1. the warrant
-
+1. [defining argument: a review](#a-review)
+1. [the claim](#the-claim)
+1. [the support](#the-support)
+1. [the warrant](#the-warrant)
