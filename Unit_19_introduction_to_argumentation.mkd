@@ -8,24 +8,24 @@
 # Part III: key terms of argument
 ## argumentation in academic writing
 the arguments we deal with in academic writing are often ordinary discourse about matters of public controversy.
-    * key terms of argument
-        - issue<br \>
-        an important subject that people are arguing about;
-        - topic<br \>
-        a particular subject matter the writer considers; a topic is a more specific part of the issue;
-        - claim<br \>
-        a statement that presses the writer's view about the topic; central argument of the essay;
-        - sub-claims<br \>
-        reasons, main ideas, micro arguments that support the claim or central argument
-        - example
-            1. issue<br \>
-            the environment
-            1. topic<br \>
-            damages of environment
-            1. claim<br \>
-            the environment has become the most serious problem the world faces today
-            1. sub-claim<br \>
-            the rain forests are being destroyed; many important water sources are being polluted by industry; the ozone layer, which protects us from harmful sun rays, is being destroyed by chemicals
+* key terms of argument
+   - issue<br \>
+   an important subject that people are arguing about;
+   - topic<br \>
+   a particular subject matter the writer considers; a topic is a more specific part of the issue;
+   - claim<br \>
+   a statement that presses the writer's view about the topic; central argument of the essay;
+   - sub-claims<br \>
+   reasons, main ideas, micro arguments that support the claim or central argument
+   - example
+      1. issue<br \>
+      the environment
+      1. topic<br \>
+      damages of environment
+      1. claim<br \>
+      the environment has become the most serious problem the world faces today
+      1. sub-claim<br \>
+      the rain forests are being destroyed; many important water sources are being polluted by industry; the ozone layer, which protects us from harmful sun rays, is being destroyed by chemicals
     * steps to construct an argument
     * general strategies of argumentation
     * alternative terms
