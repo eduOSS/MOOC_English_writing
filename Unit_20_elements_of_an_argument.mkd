@@ -1,10 +1,11 @@
 # Part I: lesson preview
-1. defining argument: a review
-1. the claim
-1. the support
-1. the warrant
+1. [defining argument: a review](#a-review)
+1. [the claim](#the-claim)
+1. [the support](#the-support)
+1. [the warrant](#the-warrant)
 
-# Part II: defining argument: a review
+# Part II: defining argument
+## a review
 argument is 'the art of influencing others, through the medium of reasoned discourse, to believe or act as we wish them to believe or act'
   * argument(Logos,Proof) vs. persuasion(Pathos,audience): 
     - argumentation gives primary importance to logical proof; 
@@ -54,6 +55,7 @@ argument is 'the art of influencing others, through the medium of reasoned disco
     - needs for safety and well-being
 
 # Part VIII: the warrant
+## the warrant
   * A warrant is an assumption, a belief or principle; 
     - it reflects personal experience, and participation in a culture; 
     - it guarantees a connecting link between the claim and the support.<br \>
