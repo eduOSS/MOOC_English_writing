@@ -7,7 +7,7 @@
 
 # Part III: key terms of argument
 ## argumentation in academic writing
-    the arguments we deal with in academic writing are often ordinary discourse about matters of public controversy.
+the arguments we deal with in academic writing are often ordinary discourse about matters of public controversy.
     * key terms of argument
         - issue<br \>
         an important subject that people are arguing about;
