@@ -1,27 +1,26 @@
-
 # steps in writing a college essay
-1. prewriting
+1. prewriting<br \>
 This part of the writing process involves choosing a topic to write on and brainstorming ideas for your essay.
-1. planning
+1. planning<br \>
 This step in the writing process involves making an outline or plan for your essay.
-1. drafting
+1. drafting<br \>
 This part of the writing process  involves actually writing your essay. During this stage, you should not worry about writing the “perfect paper.” Your goal during this step is to get your ideas down on paper.
-1. revising & editing
-This step in the writing process involves checking for ways to improve your essay in content and organization. It is one of the last steps.
+1. revising & editing<br \>
+This step in the writing process involves checking for ways to improve your essay in content and organization. It is one of the last steps.<br \>
 Checking your essay for grammatical and spelling errors is often called....
 1. making a final copy
 
-1.prewriting techniques
-1.1 pre-writing
-    before you actually begin writing your essay, you need to--
-        choose a topic to write on
-        collect ideas for the topic
-            Some brainstorming activities will help you discover ideas for you essay. The brainstorming techniques include--
-                focused free-writing
-                    writing sentences to form a paragraph
-                    writing continuously on a topic for 5 to 10 minutes without regard to spelling or grammar
-                    producing raw material as a preliminary to formal writing                    
-                listing
+## prewriting techniques
+* pre-writing<br \>
+before you actually begin writing your essay, you need to--
+  - choose a topic to write on
+  - collect ideas for the topic<br \>
+Some brainstorming activities will help you discover ideas for you essay. The brainstorming techniques include--
+* focused free-writing
+  - writing sentences to form a paragraph
+  - writing continuously on a topic for 5 to 10 minutes without regard to spelling or grammar
+  -producing raw material as a preliminary to formal writing                    
+* listing
                     rearrange the order, divide the items into groups, and further more expand the list. In doing so you would create a multi-layered list
                 clustering
                     first,write the topic in the center of the paper and circle it; second, jot down related ideas hierachically and connect them;third, form a outline as a plan to write. An outline is useful for two reasons: 1. make your essay more focused on the central ideas. 2. use the ourline to save time.
