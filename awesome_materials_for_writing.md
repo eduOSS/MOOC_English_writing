@@ -15,6 +15,6 @@
 - - - - - - - - - 
 1. in sync across multiple devices
 
-> Use the free AnkiWeb synchronization service to keep your cards in sync across multiple devices. 
+  > Use the free AnkiWeb synchronization service to keep your cards in sync across multiple devices. 
 
 
