@@ -1,4 +1,15 @@
+- april
+- August
+- coal
 - customer
+- forty
+- gold rush
 - have opinion of
+- hotel
+- June
+- lane
 - months
+- secretary
+- secret
 - skeleton
+- thursday
