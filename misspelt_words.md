@@ -1,14 +1,17 @@
 - april
 - August
+- centre 
 - coal
 - customer
 - forty
 - gold rush
+- happening 
 - have opinion of
 - hotel
 - June
 - lane
 - months
+- probably 
 - secretary
 - secret
 - skeleton
