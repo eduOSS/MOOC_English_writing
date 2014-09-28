@@ -8,8 +8,13 @@
 
 1. obvious
   * the elephant in the room
+  > The elephant in the room for students, of course, is (a) why they should change to a practice (leaving Word) that will be viewed as strange and potentially difficult by other collaborators, and (b) more specifically, how they will interact with collaborators who only use Word for track changes and commenting.
 
-  > The elephant in the room for students, of course, is (a) why they should change to a practice (leaving Word) that will be viewed as strange and potentially difficult by other collaborators, and (b) more specifically, how they will interact with collaborators who only use Word for track changes and commenting. 
+1. unfamiliar
+  * foreign
+  > the tools and terms are mostly foreign to us
+
+ 
 
 # phrases collecting
 - - - - - - - - - 
