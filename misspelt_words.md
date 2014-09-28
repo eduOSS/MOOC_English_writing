@@ -1,6 +1,9 @@
+# words and phrases
+
 - april
 - August
-- centre 
+- cafe
+- **centre**
 - coal
 - customer
 - forty
@@ -11,8 +14,42 @@
 - June
 - lane
 - months
+- opened
 - probably 
 - secretary
 - secret
 - skeleton
-- thursday
+- Thursday
+- trousers
+- video
+
+
+## about tense
+ 
+- happening
+- opened
+
+## about time
+
+- Thursday
+- April
+- March
+- June
+- August
+
+## brand
+
+- Lamborghini
+- Rolls-Royce
+
+## name
+
+- Ludwig Wittgenstein
+
+## music
+
+- Jazz
+
+## similar words
+
+- attitude 态度; altitude 高度; latitude 纬度; longitude 经度
