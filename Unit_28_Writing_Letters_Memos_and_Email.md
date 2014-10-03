@@ -22,10 +22,9 @@
     * Textual presentation: following the writing conventions of letters, memos or email that suit the particular context;
     * Page design: using table and figures, and applying headings, bulleted and numbered lists, and typography to emphasize the main ideas
 
-#### vocabulary
-in electronic form or in hard copy
+> vocabulary: in electronic form or in hard copy
 
-Part III: Writing Business Letters
+# Part III: Writing Business Letters
 2. Writing Business Letters
   1. Envelop Formatting
     * writer's address at the upper left-handed corner;
@@ -34,6 +33,20 @@ Part III: Writing Business Letters
       - Block Form
       - Indented Form
   2. Letter Formatting
+    * Two envelop form
+      - block form envelop
+        [blockformenvelop](./pic/28blockformenvelop.jpg)
+      - endented form envelop
+        [endentedformenvelop](./pic/28endentedformenvelop.jpg)
+    * Letter formatting
+      - heading
+        [heading](./pic/28heading.jpg)
+      - formal titles in English
+        [formaltiters](./pic/28formaltitles.jpg)
+      - ending
+        [ending](./pic/28ending.jpg)   
+    * Two business letter formats
+        [twobusinessletterformats](./pic/28twobusinessletterformats.jpg)
     Addressing people in business letters: addressing the recipient by the last name
   3. Text Organization
     * Three-part organization
@@ -42,5 +55,4 @@ Part III: Writing Business Letters
       - Final section: summarizing your point and suggesting follow-up action
     * Highlighting key points with typographical and page design features
 
-#### vocabulary
-cover letter/ mail out/ hanging fashion/ handwritten signature/ irritate/ garble
+> vocabulary: cover letter/ mail out/ hanging fashion/ handwritten signature/ irritate/ garble
