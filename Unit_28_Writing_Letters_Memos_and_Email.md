@@ -4,7 +4,7 @@
 1. Writing Memos
 1. Writing Email
 
-# Part II: Principles of Academic Correspondence `in electronic form or in hard copy`
+# Part II: Principles of Academic Correspondence 
 1. Principles for Academic Correspondence
   1. The 5Cs Principle for Academic Correspondence
     Correct; Courteous; Clear; Complete; Concise
@@ -21,3 +21,26 @@
   4. Design for Emphasis
     * Textual presentation: following the writing conventions of letters, memos or email that suit the particular context;
     * Page design: using table and figures, and applying headings, bulleted and numbered lists, and typography to emphasize the main ideas
+
+#### vocabulary
+in electronic form or in hard copy
+
+Part III: Writing Business Letters
+2. Writing Business Letters
+  1. Envelop Formatting
+    * writer's address at the upper left-handed corner;
+    * Addressee's address in the lower center of the envelop
+    * Two forms of envelop layout
+      - Block Form
+      - Indented Form
+  2. Letter Formatting
+    Addressing people in business letters: addressing the recipient by the last name
+  3. Text Organization
+    * Three-part organization
+      - Overview: telling the reader exactly why you are writing
+      - Middle section: developing your point;
+      - Final section: summarizing your point and suggesting follow-up action
+    * Highlighting key points with typographical and page design features
+
+#### vocabulary
+cover letter/ mail out/ hanging fashion/ handwritten signature/ irritate/ garble
