@@ -16,20 +16,21 @@ before you actually begin writing your essay, you need to--
   - choose a topic to write on
   - collect ideas for the topic<br \>
 Some brainstorming activities will help you discover ideas for you essay. The brainstorming techniques include--
-* focused free-writing
-  - writing sentences to form a paragraph
-  - writing continuously on a topic for 5 to 10 minutes without regard to spelling or grammar
-  - producing raw material as a preliminary to formal writing                    
-* listing
-  - rearrange the order, divide the items into groups, and further more expand the list. In doing so you would create a multi-layered list
-* clustering
-  - first,write the topic in the center of the paper and circle it; 
-  - second, jot down related ideas hierachically and connect them;
-  - third, form a outline as a plan to write. An outline is useful for two reasons: <br \>
-    1. make your essay more focused on the central ideas. 
-    1. use the ourline to save time.
-* questioning<br \>
-  narrow down on central ideas
+* brainstorming techniques  
+  * focused free-writing
+    - writing sentences to form a paragraph
+    - writing continuously on a topic for 5 to 10 minutes without regard to spelling or grammar
+    - producing raw material as a preliminary to formal writing                    
+  * listing
+    - rearrange the order, divide the items into groups, and further more expand the list. In doing so you would create a multi-layered list
+  * clustering
+    - first,write the topic in the center of the paper and circle it; 
+    - second, jot down related ideas hierachically and connect them;
+    - third, form a outline as a plan to write. An outline is useful for two reasons: <br \>
+      1. make your essay more focused on the central ideas. 
+      1. use the ourline to save time.
+  * questioning<br \>
+    narrow down on central ideas
 
 ## Drafting and Revising
 When you begin writing your rough draft, try to remember --
