@@ -31,3 +31,9 @@ Note: Don't expect your teacher or professor to print any attachments. Provide h
 
 ## Thank you  
 when you receive his or her reply, confirm by hitting reply and saying 'thank you'  
+
+
+
+
+Example
+- - - - - - - - -
