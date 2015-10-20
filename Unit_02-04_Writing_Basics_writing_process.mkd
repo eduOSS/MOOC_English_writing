@@ -1,0 +1,84 @@
+# steps in writing a college essay  
+1. prewriting    
+This part of the writing process involves choosing a topic to write on and brainstorming ideas for your essay.  
+2. planning   
+This step in the writing process involves making an outline or plan for your essay.  
+3. drafting   
+This part of the writing process  involves actually writing your essay. During this stage, you should not worry about writing the “perfect paper.” Your goal during this step is to get your ideas down on paper.  
+4. revising & editing   
+This step in the writing process involves checking for ways to improve your essay in content and organization. It is one of the last steps.   
+Checking your essay for grammatical and spelling errors is often called....  
+5. making a final copy  
+  
+# prewriting techniques  
+* pre-writing   
+before you actually begin writing your essay, you need to--  
+  - choose a *topic* to write on  
+  - collect *ideas* for the topic   
+
+Some brainstorming activities will help you discover ideas for you essay. The brainstorming techniques include--  
+brainstorming techniques    
+  * focused free-writing  
+    - writing sentences to form a paragraph  
+    - writing continuously on a topic for 5 to 10 minutes without regard to spelling or grammar  
+    - producing raw material as a preliminary to formal writing                      
+  * listing  
+    - rearrange the order, divide the items into groups, and further more expand the list. In doing so you would create a multi-layered list  
+  * clustering  
+    - first, write the topic in the center of the paper and circle it;   
+    - second, jot down related ideas hierachically and connect them;  
+    - third, form an outline as a plan to write. An outline is useful for two reasons:    
+      1. make your essay more focused on the central ideas.   
+      2. use the ourline to save time.  
+  * _questioning_  
+    narrow down on central ideas  
+
+# planning and outlining
+1. why make an outline?
+    * make essay more organized. 
+    * help you stay focused while drafting
+    * to save time
+2. what does an outline look like?
+3. how to make an outline?
+    * writing the *thesis statement*
+    * developing topic sentences for body paragraphs
+    * adding supporting ideas and examples under the topic sentence for each paragraph
+
+Example:
+```
+I. Introduction- Thesis Statement: A job interview can often make or break your chances of getting your dream job. There are several things that you can do in an interview to increase the possibility of your success such as, dressing properly, answering interview questions thoroughly, and asking good questions at the end of the interview. 
+  
+II. Body Paragraph #1:
+Topic Sentence: The way you dress can have a big impact on an interview panel's first impressions of you.
+    A. Men and women should consider wearing dark suits.
+    B. Conservative dress will show the interview panel you are serious about what you do.
+    C. Don't carry too many things into the interview. A notebook, pens, and/or laptop computer should be carried in a briefcase.
+    D. Hair and nails should be clean and neat.
+
+III. Body Paragraph #2:
+Topic Sentence: An interview is an opportunity for potential employers to get to know you better, so it is important that you answer each question as complete as possible.
+    A. Ask interviewers to repeat questions you don't understand.
+    B. Take some time to think about the questions before you answer.
+    C. A notebook to write down key words in interview questions is sometimes helpful.
+
+IV. Body paragraph #3:
+Topic Sentence: By preparing some thoughtful questions for the end of the interview, you can show the panel that you have prepared for the interview and want the job.
+    A. Research the job and/or company before you go to the interview.
+    B. The interview is your opportunity to get to know your potential employer. Ask questions about company goals, mission, expectations of employees, etc. 
+    C. Don't ask questions about benefits or salary during the interview. You should try to get this information before you apply for the job.
+
+V. Conclusion: Don't underestimate the importance of a good interview.
+```
+
+# Drafting and Revising  
+When you begin writing your rough draft, try to remember --  
+  * To write a rough draft, you should develop and support the ideas listed in your outline.  
+  * You should not worry about spelling and grammar right now because you can check this later.  
+  
+# Revising and Editing  
+  * Revising   
+  After you write your first draft, go back over it and look for ways to improve your essay in content and organization. This step is called revision. Revise content and organization.   
+  * the built-in spell checker  
+  
+# Correct paper formatting  
+does there exist any software that support essay writing? I know that mind map is a good tool, but what else that would be more specific to writing supporting?  
