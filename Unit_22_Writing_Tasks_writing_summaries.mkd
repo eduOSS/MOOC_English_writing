@@ -1,104 +1,104 @@
-#lesson preview
-1. [Wh-questions about summary writing](#questions-about-summary-writing)
-1. [how to summarize](#how-to-summarize)
-1. [writing a summary](writing-a-summary)
-
-#questions about summary writing
-##What is a summary? <br \> 
-to write a summary, you reduce material in the original work to its main points and key supporting details.
-
-1. a summary is not an essay but a concentrated version of the original material, presenting its main ideas, but your own point of view. 
-    * in a reduced form; 
-    * in your own words; 
-    * **in the 3rd-person point of view**; 
-    * rarely using quotations.
-1. a summary is not an outline, but written in sentence and paragraph form so that the readers understand the general ideas of the original text, as well as their relationships.
-    * presenting the ideas in the **original order**;
-    * preserving the original sense and flavor
-
-##When and where do people use summaries?
-summaries are one of the most often-used writing formats of communication in an information-based society.
-
-##Why summary writing?
-1. summarizing as a basic writing skill;
-1. one of the most common assignments in college writing.
-
-##Why is summary writing so difficult?
-writing a summary brings together a variety of reading, learning, and writing skills.<br \>
-1. to *read*(or watch or listen to) carefully,
-1. to *analyze and outline* its main ideas, and
-1. to express those main ideas *in your own words*
-
-#criteria and steps
-## how to summarize
-1. criteria of a good summary
-    * __concise__: in a condensed form of reduced length;
-    * __complete__: including all the main ideas and key supporting points in the original order;
-    * __paraphrased__: writing in you own words, rarely using quotations;
-    * __objective__: presenting the viewpoint in the 3rd-person voice
-1. steps in summary writing
-    * 1-st reading
-        - get a general idea;
-        - go through **the title, subtitle, first and last paragraphs, subheadings, graphics, special typography**, etc.
-    * 2-nd reading
-        - list main ideas;
-        - highlight main points and key supporting details;
-        - **turn any headings into questions and then to find the answers to the questions**;
-        - jot down notes;
-        - reread your checked or highlighted sections and review your notes.
-    * drafting & revising
-        - cite the source first;<br \> identify the title, the author, and the date of publication at the very start for example`in "the new, old jamaica" (saturday night, June 2004), samra habib writes .... `
-        - include key points and key supporting details;
-        - write in your own words, and quote from the material only to illustrate key points;
-        - follow the original logic and order of the original work
-        - revise for clarity, unity, and coherence.
-
-# summarizing techniques
-1. techniques of summary writing
-    * grasping a major idea<br \>take advantage of the writing structure to look for the major idea in --
-        - the thesis statement (at the end of an introduction)
-        - the topic sentence (in a deductive or inductive paragraph)
-        - the introduction (that describes what the essay aims to prove or demonstrate)
-        - the conclusion (that declares how the facts support the argument)
-    * compressing
-        - simplify *descriptions*
-        - omit *details*
-        - reduce *examples*
-        - eliminate repetitions
-    * **paraphrasing**
-        - write a restatement;
-        - reserve the author's intended meaning;
-        - use *different words*;
-        - recorganize the ideas
-    * condensing
-        - change phrases to words;
-        - change passages and sentences to phrases
-        - replace specific words with general words;
-        - put main points of dialogues in indirect speech;
-        - use short *transitions*
-    `e.g. "the company is hard up for money and is pressed by its creditors."-> "the company is in financial difficulties"`
-
-# writing a summary
-1. 1-st reading of the article;
-    * title & subtitle: the title "the new, old jamaica" seems too general; no subtitle;
-    * paragraph 1 
-    * last paragraph
-1. 2-nd reading: listing the main ideas;
-
-## revising a summary
-1. compressing the list;<br \>shorten the list by compressing the ideas and eliminating less related and repeated points
-1. drafting and revising the summary
-    * to tighten the text:
-        - condensing related ideas into single phrases or sentences
-        - editing wordy phrases(W)
-        - removing repetitions(R)
-
-# writing assignment
-* write a one-or two-paragraph summary of an article from the newspaper China Daily (follow the steps and advice presented in the lesson)
-* see if you can choose an article that is related to your study subject or you personal interest
-
-# lesson review 
-`wrap up this lesson`
-1. [Wh-questions about summary writing](#questions-about-summary-writing) <br \> show the __necessity__ and importance of summary writing
-1. [how to summarize](#how-to-summarize) <br \> show steps and __techniques__ of summary writing
-1. [writing a summary](writing-a-summary) <br \> show an example of writing a summary
+#lesson preview   
+1. [Wh-questions about summary writing](#questions-about-summary-writing)   
+1. [how to summarize](#how-to-summarize)   
+1. [writing a summary](writing-a-summary)   
+   
+#questions about summary writing   
+##What is a summary? <br \>    
+to write a summary, you reduce material in the original work to its main points and key supporting details.   
+   
+1. a summary is not an essay but a concentrated version of the original material, presenting its main ideas, but your own point of view.    
+    * in a reduced form;    
+    * in your own words;    
+    * **in the 3rd-person point of view**;    
+    * rarely using quotations.   
+1. a summary is not an outline, but written in sentence and paragraph form so that the readers understand the general ideas of the original text, as well as their relationships.   
+    * presenting the ideas in the **original order**;   
+    * preserving the original sense and flavor   
+   
+##When and where do people use summaries?   
+summaries are one of the most often-used writing formats of communication in an information-based society.   
+   
+##Why summary writing?   
+1. summarizing as a basic writing skill;   
+1. one of the most common assignments in college writing.   
+   
+##Why is summary writing so difficult?   
+writing a summary brings together a variety of reading, learning, and writing skills.<br \>   
+1. to *read*(or watch or listen to) carefully,   
+1. to *analyze and outline* its main ideas, and   
+1. to express those main ideas *in your own words*   
+   
+#criteria and steps   
+## how to summarize   
+1. criteria of a good summary   
+    * __concise__: in a condensed form of reduced length;   
+    * __complete__: including all the main ideas and key supporting points in the original order;   
+    * __paraphrased__: writing in you own words, rarely using quotations;   
+    * __objective__: presenting the viewpoint in the 3rd-person voice   
+1. steps in summary writing   
+    * 1-st reading   
+        - get a general idea;   
+        - go through **the title, subtitle, first and last paragraphs, subheadings, graphics, special typography**, etc.   
+    * 2-nd reading   
+        - list main ideas;   
+        - highlight main points and key supporting details;   
+        - **turn any headings into questions and then to find the answers to the questions**;   
+        - jot down notes;   
+        - reread your checked or highlighted sections and review your notes.   
+    * drafting & revising   
+        - cite the source first;<br \> identify the title, the author, and the date of publication at the very start for example`in "the new, old jamaica" (saturday night, June 2004), samra habib writes .... `   
+        - include key points and key supporting details;   
+        - write in your own words, and quote from the material only to illustrate key points;   
+        - follow the original logic and order of the original work   
+        - revise for clarity, unity, and coherence.   
+   
+# summarizing techniques   
+1. techniques of summary writing   
+    * grasping a major idea<br \>take advantage of the writing structure to look for the major idea in --   
+        - the thesis statement (at the end of an introduction)   
+        - the topic sentence (in a deductive or inductive paragraph)   
+        - the introduction (that describes what the essay aims to prove or demonstrate)   
+        - the conclusion (that declares how the facts support the argument)   
+    * compressing   
+        - simplify *descriptions*   
+        - omit *details*   
+        - reduce *examples*   
+        - eliminate repetitions   
+    * **paraphrasing**   
+        - write a restatement;   
+        - reserve the author's intended meaning;   
+        - use *different words*;   
+        - recorganize the ideas   
+    * condensing   
+        - change phrases to words;   
+        - change passages and sentences to phrases   
+        - replace specific words with general words;   
+        - put main points of dialogues in indirect speech;   
+        - use short *transitions*   
+    `e.g. "the company is hard up for money and is pressed by its creditors."-> "the company is in financial difficulties"`   
+   
+# writing a summary   
+1. 1-st reading of the article;   
+    * title & subtitle: the title "the new, old jamaica" seems too general; no subtitle;   
+    * paragraph 1    
+    * last paragraph   
+1. 2-nd reading: listing the main ideas;   
+   
+## revising a summary   
+1. compressing the list;<br \>shorten the list by compressing the ideas and eliminating less related and repeated points   
+1. drafting and revising the summary   
+    * to tighten the text:   
+        - condensing related ideas into single phrases or sentences   
+        - editing wordy phrases(W)   
+        - removing repetitions(R)   
+   
+# writing assignment   
+* write a one-or two-paragraph summary of an article from the newspaper China Daily (follow the steps and advice presented in the lesson)   
+* see if you can choose an article that is related to your study subject or you personal interest   
+   
+# lesson review    
+`wrap up this lesson`   
+1. [Wh-questions about summary writing](#questions-about-summary-writing) <br \> show the __necessity__ and importance of summary writing   
+1. [how to summarize](#how-to-summarize) <br \> show steps and __techniques__ of summary writing   
+1. [writing a summary](writing-a-summary) <br \> show an example of writing a summary   

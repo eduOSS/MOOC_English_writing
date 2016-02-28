@@ -1,9 +1,9 @@
-I am astonished to hear that. If I were you I would say that this on-line course worths my time. 
-
-Firstly, about input(only time considered as you mentioned). I usually spend less than 9 hours a week on this course. I learned from the course arrangement that only 10 weeks this course lasts. Thus, I spend no more than 90 hours (equals two weeks of working time, far less than two weeks of study time as I did when I was a senior in high school) to finish this course. Let's say I study 60 hours every week in one year to prepare the entrance exam, then the time this course consumes accounts only 1.5/52(less than 3%) of my whole study time.
-
-Secondly, about outcome. Several favorable factors attract me and support me such as directly increase scores, excellent teachers, aspiring on-line study buddy, flexible study schedule, etc. English Wring will no doubt increase not only my English writing scores, but also reading and listening. I know nothing about an article's structure until I learned it from this course. Then I know how to read articles of the test paper and find the question's' answer more quickly. Apart from the score, Dr Li is the best English teacher I have ever met. I know what a good English teacher would be. If I were a senior student in high school, I will eager to find some study companion on-line or offline. Those who can maintain their study on-line are always aspiring learners who would spur me when I am tired or frustrated. Certainly, I'll have a full schedule. But these micro-courses let me learn in any fragment of time. I would make full use of my precious time this way. 
- 
-Thirdly, about personal particular case. You may be saying, "I am not you!" Of course, if you have a better teacher, better learning methods your leave would be an excellent choice. 
-
-Best wishes. If only I were you!
+I am astonished to hear that. If I were you I would say that this on-line course worths my time.       
+      
+Firstly, about input(only time considered as you mentioned). I usually spend less than 9 hours a week on this course. I learned from the course arrangement that only 10 weeks this course lasts. Thus, I spend no more than 90 hours (equals two weeks of working time, far less than two weeks of study time as I did when I was a senior in high school) to finish this course. Let's say I study 60 hours every week in one year to prepare the entrance exam, then the time this course consumes accounts only 1.5/52(less than 3%) of my whole study time.      
+      
+Secondly, about outcome. Several favorable factors attract me and support me such as directly increase scores, excellent teachers, aspiring on-line study buddy, flexible study schedule, etc. English Wring will no doubt increase not only my English writing scores, but also reading and listening. I know nothing about an article's structure until I learned it from this course. Then I know how to read articles of the test paper and find the question's' answer more quickly. Apart from the score, Dr Li is the best English teacher I have ever met. I know what a good English teacher would be. If I were a senior student in high school, I will eager to find some study companion on-line or offline. Those who can maintain their study on-line are always aspiring learners who would spur me when I am tired or frustrated. Certainly, I'll have a full schedule. But these micro-courses let me learn in any fragment of time. I would make full use of my precious time this way.       
+       
+Thirdly, about personal particular case. You may be saying, "I am not you!" Of course, if you have a better teacher, better learning methods your leave would be an excellent choice.       
+      
+Best wishes. If only I were you!      

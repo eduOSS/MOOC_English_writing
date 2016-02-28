@@ -1,16 +1,16 @@
-# Part I: Lesson Preview
-In foreign college students are given many essay writing assignments which include essays, reports, research papers, essay exams etc.
-* to explore your thoughts, ideas, and beliefs;
-* to share what you know and what you have learned;
-* to influence your readers
-Communication Triangle
-![Alt test](./pic/5part1p1.jpg)
-
-1. The Traditional Essay(what)
-1. Examples and Analyses(how)
-1. Benefits of Writing to Traditional Essay(why)
-1. A Case Study
-
-# Part II: The Traditional Essay Structure
-## The Traditional Essay
-![Alt text](./pic/5part2p1.jpg)
+# Part I: Lesson Preview   
+In foreign college students are given many essay writing assignments which include essays, reports, research papers, essay exams etc.   
+* to explore your thoughts, ideas, and beliefs;   
+* to share what you know and what you have learned;   
+* to influence your readers   
+Communication Triangle   
+![Alt test](./pic/5part1p1.jpg)   
+   
+1. The Traditional Essay(what)   
+1. Examples and Analyses(how)   
+1. Benefits of Writing to Traditional Essay(why)   
+1. A Case Study   
+   
+# Part II: The Traditional Essay Structure   
+## The Traditional Essay   
+![Alt text](./pic/5part2p1.jpg)   

@@ -1,60 +1,60 @@
-# Part I: Lesson Preview
-1. What's Special about Extended Essays
-1. How to Write the Introduction
-1. How to Organize the Body
-1. How to Write the Conclusion
-
-# Part II: Special Features  of Extended Essays
-## What is Special about Extended Essays<br \> 
-What are differences between the structure of an extended essay and that of a traditional 5-paragraph essay?
-![Alt text](./pic/24speext_p1.png)
-![Alt text](./pic/24speext_p2.png)
-
-# Part III: The Introduction
-1. The Hook<br \> The opening should grasp the reader's attention to the subject. Below are some examples:
-  * Start out with a revealing story or quotation
-  * Give important background information
-  * Offer a series of interesting or surprising facts
-  * Provide important definitions
-1. Contextual Information
-  * To identify the focus of the discussion;
-  * To provide contextual information to bridge the gaps;
-  * To organize the information in the most efficient and effective way<br \>Organizing the information in --
-    - Chronological order
-    - Order of importance
-    - Negative + Positive / Positive + Negative aspects
-    - Comparison and contrast
-    - Causal chain
-    - Problem-solution
-1. The Thesis Statement<br \> An effective thesis statement is a complete sentence that consists of two parts:
-  * The thesis, which clearly tells the essay's main idea;
-  * A guide of the specific points that will be discussed or an overview that suggests how the paper will be organized
-  Here is an example:
-  ![Alt text](./pic/24thesta_p1.png)
-  ![Alt text](./pic/24intro_p1.png)
-
-# Part IV: The Organization of the Body
-## How to Write the Body
-  * Grouping body paragraphs into sections, using section headings if necessary;
-  ![Alt text](./pic/24body_p1.png)
-  * Writing each paragraph at a time by using the "hamburger" model `in accordance with`<br \>
-  The hamburger model
-  ![Alt text](./pic/24hamburger_p1.png)
-  * Four Main Parts of a Paragraph
-    - Topic sentence: giving the main idea of the paragraph;
-    - Explanation: reiterating or analyzing or defining the main idea;
-    - Illustration: supporting the main idea by citing examples and giving illustrations;
-    - Link: making commentary to link the paragraph to the topic, or to the central idea, or the following paragraph
-  ![Alt text](./pic/24exam3.png)
-
-# Part V: The Conclusion
-## How to write the conclusion 
-`be squeezed into` <br \>
-The following target areas are effective to tackle in your conclusion. To close up, you may try to--
-  * provide a brief summary of your main points
-  * incite the reader to act
-  * propose questions for further discussion
-  * relate your topic to the "big picture" or what it signifies as it relates to the broader issue at hand
-  * identify the overall meaning of your paper, why its important
-  * logically and tastefully share your final thoughts on the topic and overall benefits.
-
+# Part I: Lesson Preview   
+1. What's Special about Extended Essays   
+1. How to Write the Introduction   
+1. How to Organize the Body   
+1. How to Write the Conclusion   
+   
+# Part II: Special Features  of Extended Essays   
+## What is Special about Extended Essays<br \>    
+What are differences between the structure of an extended essay and that of a traditional 5-paragraph essay?   
+![Alt text](./pic/24speext_p1.png)   
+![Alt text](./pic/24speext_p2.png)   
+   
+# Part III: The Introduction   
+1. The Hook<br \> The opening should grasp the reader's attention to the subject. Below are some examples:   
+  * Start out with a revealing story or quotation   
+  * Give important background information   
+  * Offer a series of interesting or surprising facts   
+  * Provide important definitions   
+1. Contextual Information   
+  * To identify the focus of the discussion;   
+  * To provide contextual information to bridge the gaps;   
+  * To organize the information in the most efficient and effective way<br \>Organizing the information in --   
+    - Chronological order   
+    - Order of importance   
+    - Negative + Positive / Positive + Negative aspects   
+    - Comparison and contrast   
+    - Causal chain   
+    - Problem-solution   
+1. The Thesis Statement<br \> An effective thesis statement is a complete sentence that consists of two parts:   
+  * The thesis, which clearly tells the essay's main idea;   
+  * A guide of the specific points that will be discussed or an overview that suggests how the paper will be organized   
+  Here is an example:   
+  ![Alt text](./pic/24thesta_p1.png)   
+  ![Alt text](./pic/24intro_p1.png)   
+   
+# Part IV: The Organization of the Body   
+## How to Write the Body   
+  * Grouping body paragraphs into sections, using section headings if necessary;   
+  ![Alt text](./pic/24body_p1.png)   
+  * Writing each paragraph at a time by using the "hamburger" model `in accordance with`<br \>   
+  The hamburger model   
+  ![Alt text](./pic/24hamburger_p1.png)   
+  * Four Main Parts of a Paragraph   
+    - Topic sentence: giving the main idea of the paragraph;   
+    - Explanation: reiterating or analyzing or defining the main idea;   
+    - Illustration: supporting the main idea by citing examples and giving illustrations;   
+    - Link: making commentary to link the paragraph to the topic, or to the central idea, or the following paragraph   
+  ![Alt text](./pic/24exam3.png)   
+   
+# Part V: The Conclusion   
+## How to write the conclusion    
+`be squeezed into` <br \>   
+The following target areas are effective to tackle in your conclusion. To close up, you may try to--   
+  * provide a brief summary of your main points   
+  * incite the reader to act   
+  * propose questions for further discussion   
+  * relate your topic to the "big picture" or what it signifies as it relates to the broader issue at hand   
+  * identify the overall meaning of your paper, why its important   
+  * logically and tastefully share your final thoughts on the topic and overall benefits.   
+   

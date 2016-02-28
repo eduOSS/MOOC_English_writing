@@ -1,112 +1,112 @@
-# Part I: Lesson Preview
-1. Wh- Questions about RA Abstracts
-1. General Analysis of RA Abstracts
-1. Writing a Traditional Abstract
-1. Writing a Structured Abstract
-
-# Part II: Questions about Abstracts
-1. Major Functions of RA abstracts:
-  * Screening devices;
-  * Stand-alone mini-texts, miniatures of the research papers;
-  * Previews for readers;
-  * Immediate oversight for reviewers;
-  * Indexing help for professional abstract writers and editors
-1. When were RA abstracts developed?
-
-  |before|1960s|late 1980s|
-  |------|-----|----------|
-  |No abstracts in research articles published before the 1960s|Abstracts first introduced in medical research journals in the 1960s|**Structured abstracts** developed in addition to traditional IMRAD(introduction, material, results and discussion) abstracts|
-1. How many types of RA abstracts? <br \> Four commonly used types of RA abstracts:
-  * Abstracts for research **journal** articles;
-  * Abstracts for **Master's theses and doctoral dissertations**;
-  * **Conference** submission abstracts;
-  * The **IEEE(I triple E)** abstracts for "short communications"
-  Lengths of different types of RA abstracts
-  ![Alt text](./pic/25table1.png)
-  Two basic formats of RA abstracts
-  * "IMRAD" Abstracts<br \> One-paragraph format(in 150~200 words)
-    - Introduction,
-    - Materials & methods,
-    - Results, and
-    - Discussion
-  * "Structured" Abstracts
-    - With distinct, labeled sections(e.g. "Background," "Methods," "Results," and "Conclusion"; in 250 words maximum)
-  Different Formats of Abstracts from scholarly Research Articles
-  ![Alt text](./pic/25example1.png)
-1. What's special about the writing of abstracts?
-
-  > "I would have written a shorter letter, but I didn't have the time" -- Blaise Pascal 1657<br \>
-  > E = mcc is the shortest abstract in history
-  Writing a good abstract really cost time
-
-# Part III: General Analysis of Abstracts
-1. Lengths of RA abstracts
-  vary from different kind of field
-1. Structure of "Rhetorical Moves"
-
-  | move |typical labels|implied questions|
-  |-----|--------------|-----------------|
-  | move 1 | background/introduction/situation | what do we know about the topic? why is the topic important? |
-  | move 2 | present research/purpose | what is this study about? |
-  | move 3 | methods/materials/subjects/procedures | How was it done? |
-  | move 4 | results/findings | what was discovered? |
-  | move 5 | discussion/conclusion/implications/recommendations | what do the findings mean? |
-# Part IV: Language Features
-1. Language Focuses<br \>issues
-  * Any citations? --vary in research fields
-  * Any first-person pronouns --seldom used
-  * The most common verb tense? --the simple present tense; but the past tense is used when discussing methodology, and results vary between present and past tense
-  * Any metadiscourse? --very common
-  * Any abbreviations and acronyms? --some but not very many may be used
-  `re-examining; opening statement; widespread, current, ongoing and less negotiable`
-  ![Alt text](./pic/25reexam21.png)
-
-# Part V: Writing the Traditional Abstract
-## Writing a Traditional Abstract
-1. Getting Started(Moves 1 and 2) <br \> Four basic types of sentences to start the abstract with:
-  * Type A: with a *real-world* phenomenonn or with standard practice;
-  * Type B: with *purpose* or objective;
-  * Type C: with present researcher *action*;
-  * Type D: with a *problem* or an uncertainty
-  ![Alt text](./pic/25tyex.png)
-1. Compressing Methods Descriptions(Move 3)
-  * Move 3 includes information about data, participants, length of study, location, etc.;
-  * Be compressed for more information in other moves;
-  * Use the past tense and the passive voice
-    ![Alt test](./pic/25eam31.png)
-    Reduce the above draft to no more than 30 words
-    ![Alt test](./pic/25eam31_p2.png)
-1. Moving on: Results(Move 4)
-  * Main results and that-clauses
-  the that-clause
-
-    > On an average, the that-clause occurs 1.2 times per abstract. As many as 88% of the that-clauses are used to describe findings as part of Move 4 -- Hyland & Tse, 2005
-1. Concluding an Abstract(Move 5)
-  * Ending with a general implication:
-    - The research reported in this paper indicates that the survival of this species may be threatened.
-  * Ending with recommendations
-    - Recommendations are made regarding language training for future research, as well as suggestions for future research.
-  ![Alt test](./pic/25cmes.png)
-
-# Part VI: Writing the Structured Abstract
-1. An example of the structured abstract
-  ![Alt test](./pic/25strabsexa.png)
-1. Distinctive, labeled sections
-  - Background
-  - Aim / Purpose
-  - Methods
-  - Results
-  - Conclusion
-1. Sentence patterns in the Aim/Objective section
-  ![Alt test](./pic/25senpatt.png)
-1. Conversion of the traditional to the structured
-  ![Alt test](./pic/25rawexa.png)
-  A suggested version of the structured abstract
-  ![Alt test](./pic/25sugexa.png)
-
-# Part VII: Writing Assignment
-Collect 10~15 abstracts from your target journals (traditional or structured), and 
-
-1. Look for the rhetorical moves in the abstracts;
-1. Examine the sentence patterns,  verb tense, and other language features used by the writers;
-1. Summarize your findings in a paragraph or short essay.
+# Part I: Lesson Preview   
+1. Wh- Questions about RA Abstracts   
+1. General Analysis of RA Abstracts   
+1. Writing a Traditional Abstract   
+1. Writing a Structured Abstract   
+   
+# Part II: Questions about Abstracts   
+1. Major Functions of RA abstracts:   
+  * Screening devices;   
+  * Stand-alone mini-texts, miniatures of the research papers;   
+  * Previews for readers;   
+  * Immediate oversight for reviewers;   
+  * Indexing help for professional abstract writers and editors   
+1. When were RA abstracts developed?   
+   
+  |before|1960s|late 1980s|   
+  |------|-----|----------|   
+  |No abstracts in research articles published before the 1960s|Abstracts first introduced in medical research journals in the 1960s|**Structured abstracts** developed in addition to traditional IMRAD(introduction, material, results and discussion) abstracts|   
+1. How many types of RA abstracts? <br \> Four commonly used types of RA abstracts:   
+  * Abstracts for research **journal** articles;   
+  * Abstracts for **Master's theses and doctoral dissertations**;   
+  * **Conference** submission abstracts;   
+  * The **IEEE(I triple E)** abstracts for "short communications"   
+  Lengths of different types of RA abstracts   
+  ![Alt text](./pic/25table1.png)   
+  Two basic formats of RA abstracts   
+  * "IMRAD" Abstracts<br \> One-paragraph format(in 150~200 words)   
+    - Introduction,   
+    - Materials & methods,   
+    - Results, and   
+    - Discussion   
+  * "Structured" Abstracts   
+    - With distinct, labeled sections(e.g. "Background," "Methods," "Results," and "Conclusion"; in 250 words maximum)   
+  Different Formats of Abstracts from scholarly Research Articles   
+  ![Alt text](./pic/25example1.png)   
+1. What's special about the writing of abstracts?   
+   
+  > "I would have written a shorter letter, but I didn't have the time" -- Blaise Pascal 1657<br \>   
+  > E = mcc is the shortest abstract in history   
+  Writing a good abstract really cost time   
+   
+# Part III: General Analysis of Abstracts   
+1. Lengths of RA abstracts   
+  vary from different kind of field   
+1. Structure of "Rhetorical Moves"   
+   
+  | move |typical labels|implied questions|   
+  |-----|--------------|-----------------|   
+  | move 1 | background/introduction/situation | what do we know about the topic? why is the topic important? |   
+  | move 2 | present research/purpose | what is this study about? |   
+  | move 3 | methods/materials/subjects/procedures | How was it done? |   
+  | move 4 | results/findings | what was discovered? |   
+  | move 5 | discussion/conclusion/implications/recommendations | what do the findings mean? |   
+# Part IV: Language Features   
+1. Language Focuses<br \>issues   
+  * Any citations? --vary in research fields   
+  * Any first-person pronouns --seldom used   
+  * The most common verb tense? --the simple present tense; but the past tense is used when discussing methodology, and results vary between present and past tense   
+  * Any metadiscourse? --very common   
+  * Any abbreviations and acronyms? --some but not very many may be used   
+  `re-examining; opening statement; widespread, current, ongoing and less negotiable`   
+  ![Alt text](./pic/25reexam21.png)   
+   
+# Part V: Writing the Traditional Abstract   
+## Writing a Traditional Abstract   
+1. Getting Started(Moves 1 and 2) <br \> Four basic types of sentences to start the abstract with:   
+  * Type A: with a *real-world* phenomenonn or with standard practice;   
+  * Type B: with *purpose* or objective;   
+  * Type C: with present researcher *action*;   
+  * Type D: with a *problem* or an uncertainty   
+  ![Alt text](./pic/25tyex.png)   
+1. Compressing Methods Descriptions(Move 3)   
+  * Move 3 includes information about data, participants, length of study, location, etc.;   
+  * Be compressed for more information in other moves;   
+  * Use the past tense and the passive voice   
+    ![Alt test](./pic/25eam31.png)   
+    Reduce the above draft to no more than 30 words   
+    ![Alt test](./pic/25eam31_p2.png)   
+1. Moving on: Results(Move 4)   
+  * Main results and that-clauses   
+  the that-clause   
+   
+    > On an average, the that-clause occurs 1.2 times per abstract. As many as 88% of the that-clauses are used to describe findings as part of Move 4 -- Hyland & Tse, 2005   
+1. Concluding an Abstract(Move 5)   
+  * Ending with a general implication:   
+    - The research reported in this paper indicates that the survival of this species may be threatened.   
+  * Ending with recommendations   
+    - Recommendations are made regarding language training for future research, as well as suggestions for future research.   
+  ![Alt test](./pic/25cmes.png)   
+   
+# Part VI: Writing the Structured Abstract   
+1. An example of the structured abstract   
+  ![Alt test](./pic/25strabsexa.png)   
+1. Distinctive, labeled sections   
+  - Background   
+  - Aim / Purpose   
+  - Methods   
+  - Results   
+  - Conclusion   
+1. Sentence patterns in the Aim/Objective section   
+  ![Alt test](./pic/25senpatt.png)   
+1. Conversion of the traditional to the structured   
+  ![Alt test](./pic/25rawexa.png)   
+  A suggested version of the structured abstract   
+  ![Alt test](./pic/25sugexa.png)   
+   
+# Part VII: Writing Assignment   
+Collect 10~15 abstracts from your target journals (traditional or structured), and    
+   
+1. Look for the rhetorical moves in the abstracts;   
+1. Examine the sentence patterns,  verb tense, and other language features used by the writers;   
+1. Summarize your findings in a paragraph or short essay.   
